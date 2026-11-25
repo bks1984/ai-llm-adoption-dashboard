@@ -10,7 +10,7 @@ import streamlit as st
 from ai_adoption import analysis as A
 from ai_adoption import charts as CH
 from ai_adoption import config as C
-from ai_adoption.data_loader import SchemaError, clean, load_dataset
+from ai_adoption.data_loader import SchemaError, clean, find_source_file, load_dataset
 
 st.set_page_config(
     page_title="AI & LLM Tools Adoption 2026",
@@ -39,9 +39,10 @@ PLOT_CFG = {"displaylogo": False, "modeBarButtonsToRemove": ["lasso2d", "select2
 # Data
 # --------------------------------------------------------------------------- #
 @st.cache_data(show_spinner="Loading dataset…")
-def _load_default():
-    data = load_dataset()
-    return data.df, str(data.source_path.name), data.is_sample
+def _load_default(path: str, mtime: float, is_sample: bool):
+    # path + mtime are the cache key, so a new or updated data file is picked up
+    data = load_dataset(path)
+    return data.df, data.source_path.name, is_sample
 
 
 @st.cache_data(show_spinner="Reading uploaded file…")
@@ -66,7 +67,8 @@ try:
     if uploaded is not None:
         df_all, source_name, is_sample = _load_upload(uploaded.getvalue(), uploaded.name)
     else:
-        df_all, source_name, is_sample = _load_default()
+        src, sample = find_source_file()
+        df_all, source_name, is_sample = _load_default(str(src), src.stat().st_mtime, sample)
 except (SchemaError, FileNotFoundError) as exc:
     st.error(str(exc))
     st.stop()
