@@ -9,6 +9,9 @@ Hugging Face Hub, with their downloads, community likes and an engagement score.
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-ff4b4b)
 ![License](https://img.shields.io/badge/code-MIT-green)
 ![Data](https://img.shields.io/badge/data-Apache%202.0-lightgrey)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-llm-adoption-dashboard.streamlit.app)
+
+**▶ Live demo: https://ai-llm-adoption-dashboard.streamlit.app** (running on the bundled synthetic sample until the Kaggle CSV is added)
 
 ---
 
