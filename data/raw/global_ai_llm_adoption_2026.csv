@@ -1,0 +1,1001 @@
+Record_ID,Model_Or_Tool_Name,Developer_Org,Primary_Task_Category,Framework_Library,Total_Downloads,Community_Likes,Adoption_Engagement_Score,Data_Source
+1,sentence-transformers/all-MiniLM-L6-v2,Community/Independent,sentence-similarity,sentence-transformers,173717637,6109,0.04,HuggingFace Live Hub API
+2,argmaxinc/whisperkit-coreml,Community/Independent,automatic-speech-recognition,whisperkit,63857131,266,0.0,HuggingFace Live Hub API
+3,cross-encoder/ms-marco-MiniLM-L6-v2,Community/Independent,text-ranking,sentence-transformers,60005666,445,0.01,HuggingFace Live Hub API
+4,BAAI/bge-small-en-v1.5,Community/Independent,feature-extraction,sentence-transformers,45750548,671,0.01,HuggingFace Live Hub API
+5,openai-community/gpt2,Community/Independent,text-generation,transformers,33264897,3934,0.12,HuggingFace Live Hub API
+6,autogluon/chronos-2,Community/Independent,time-series-forecasting,chronos-forecasting,32957958,94,0.0,HuggingFace Live Hub API
+7,Comfy-Org/MiniMax-H3,Community/Independent,General AI,diffusion-single-file,32877845,2622,0.08,HuggingFace Live Hub API
+8,google-bert/bert-base-uncased,Community/Independent,fill-mask,transformers,31634105,3071,0.1,HuggingFace Live Hub API
+9,BAAI/bge-m3,Community/Independent,sentence-similarity,sentence-transformers,29561345,3993,0.14,HuggingFace Live Hub API
+10,sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,Community/Independent,sentence-similarity,sentence-transformers,26338708,1505,0.06,HuggingFace Live Hub API
+11,sentence-transformers/all-mpnet-base-v2,Community/Independent,sentence-similarity,sentence-transformers,20398427,1405,0.07,HuggingFace Live Hub API
+12,google-t5/t5-small,Community/Independent,translation,transformers,20046141,696,0.03,HuggingFace Live Hub API
+13,Qwen/Qwen3-0.6B,Community/Independent,text-generation,transformers,19141315,1896,0.1,HuggingFace Live Hub API
+14,openai/clip-vit-base-patch32,Community/Independent,zero-shot-image-classification,transformers,17805063,1278,0.07,HuggingFace Live Hub API
+15,jonatasgrosman/wav2vec2-large-xlsr-53-japanese,Community/Independent,automatic-speech-recognition,transformers,16280488,119,0.01,HuggingFace Live Hub API
+16,google/vit-base-patch16-224,Community/Independent,image-classification,transformers,15608660,1053,0.07,HuggingFace Live Hub API
+17,microsoft/Florence-2-base,Community/Independent,image-text-to-text,transformers,14962311,439,0.03,HuggingFace Live Hub API
+18,BAAI/bge-reranker-v2-m3,Community/Independent,text-classification,sentence-transformers,14648377,1302,0.09,HuggingFace Live Hub API
+19,Qwen/Qwen3-14B,Community/Independent,text-generation,transformers,13011347,540,0.04,HuggingFace Live Hub API
+20,hexgrad/Kokoro-82M,Community/Independent,text-to-speech,Open-Source,12644430,7407,0.59,HuggingFace Live Hub API
+21,nomic-ai/nomic-embed-text-v1.5,Community/Independent,sentence-similarity,sentence-transformers,11718329,994,0.08,HuggingFace Live Hub API
+22,timm/mobilenetv3_small_100.lamb_in1k,Community/Independent,image-classification,timm,10443624,157,0.02,HuggingFace Live Hub API
+23,Comfy-Org/Qwen-Image-2.1,Community/Independent,text-to-image,diffusion-single-file,9971455,1317,0.13,HuggingFace Live Hub API
+24,Comfy-Org/Wan-2.2,Community/Independent,image-to-video,diffusion-single-file,9743506,1021,0.1,HuggingFace Live Hub API
+25,Comfy-Org/Z-Image-Turbo,Community/Independent,General AI,diffusion-single-file,9678379,1032,0.11,HuggingFace Live Hub API
+26,intfloat/multilingual-e5-small,Community/Independent,sentence-similarity,sentence-transformers,9477267,489,0.05,HuggingFace Live Hub API
+27,audio-cpp/audio.cpp-gguf,Community/Independent,text-to-speech,audio.cpp,9211489,317,0.03,HuggingFace Live Hub API
+28,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,Community/Independent,sentence-similarity,sentence-transformers,9109572,554,0.06,HuggingFace Live Hub API
+29,FacebookAI/xlm-roberta-base,Community/Independent,fill-mask,transformers,8669974,969,0.11,HuggingFace Live Hub API
+30,Qwen/Qwen3-Embedding-0.6B,Community/Independent,feature-extraction,sentence-transformers,8620434,1346,0.16,HuggingFace Live Hub API
+31,laion/clap-htsat-fused,Community/Independent,audio-classification,transformers,8588358,178,0.02,HuggingFace Live Hub API
+32,BAAI/bge-base-en-v1.5,Community/Independent,feature-extraction,sentence-transformers,8508165,542,0.06,HuggingFace Live Hub API
+33,deepseek-ai/DeepSeek-V3.2,Community/Independent,text-generation,transformers,8442070,1597,0.19,HuggingFace Live Hub API
+34,Bingsu/adetailer,Community/Independent,General AI,ultralytics,8417122,826,0.1,HuggingFace Live Hub API
+35,Serveurperso/YuE2-GGUF,Community/Independent,General AI,Open-Source,8320751,31,0.0,HuggingFace Live Hub API
+36,facebook/contriever,Community/Independent,General AI,transformers,8309370,132,0.02,HuggingFace Live Hub API
+37,amazon/chronos-2,Community/Independent,time-series-forecasting,chronos-forecasting,8029046,575,0.07,HuggingFace Live Hub API
+38,BAAI/bge-large-en-v1.5,Community/Independent,feature-extraction,sentence-transformers,7744649,783,0.1,HuggingFace Live Hub API
+39,openai/clip-vit-large-patch14,Community/Independent,zero-shot-image-classification,transformers,7213892,2138,0.3,HuggingFace Live Hub API
+40,Qwen/Qwen3-VL-8B-Instruct,Community/Independent,image-text-to-text,transformers,7130209,1253,0.18,HuggingFace Live Hub API
+41,intfloat/multilingual-e5-large,Community/Independent,feature-extraction,sentence-transformers,7112662,1284,0.18,HuggingFace Live Hub API
+42,Qwen/Qwen3.8-27B,Community/Independent,image-text-to-text,transformers,6960395,19813,2.85,HuggingFace Live Hub API
+43,ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF,Community/Independent,image-text-to-text,gguf,6949614,1236,0.18,HuggingFace Live Hub API
+44,ibm-granite/granite-embedding-small-english-r2,Community/Independent,feature-extraction,sentence-transformers,6828205,114,0.02,HuggingFace Live Hub API
+45,prithivMLmods/Gender-Classifier-Mini,Community/Independent,image-classification,transformers,6810513,20,0.0,HuggingFace Live Hub API
+46,pyannote/speaker-diarization-3.1,Community/Independent,automatic-speech-recognition,pyannote-audio,6641709,5145,0.77,HuggingFace Live Hub API
+47,google/gemma-4-31B-it,Community/Independent,image-text-to-text,transformers,6614519,4353,0.66,HuggingFace Live Hub API
+48,MiniMaxAI/MiniMax-H3,Community/Independent,image-text-to-video,minimax-h3,6536038,6861,1.05,HuggingFace Live Hub API
+49,Comfy-Org/MOSS-Image,Community/Independent,General AI,diffusion-single-file,6492214,673,0.1,HuggingFace Live Hub API
+50,Qwen/Qwen2.5-7B-Instruct,Community/Independent,text-generation,transformers,6444573,2494,0.39,HuggingFace Live Hub API
+51,zai-org/GLM-5.3-Flash,Community/Independent,image-text-to-text,transformers,6391126,3149,0.49,HuggingFace Live Hub API
+52,unsloth/Qwen3.8-27B-GGUF,Community/Independent,General AI,Open-Source,6253865,5842,0.93,HuggingFace Live Hub API
+53,Qwen/Qwen3.5-9B,Community/Independent,image-text-to-text,transformers,6201482,2358,0.38,HuggingFace Live Hub API
+54,Qwen/Qwen3-8B,Community/Independent,text-generation,transformers,6165334,2185,0.35,HuggingFace Live Hub API
+55,FacebookAI/roberta-base,Community/Independent,fill-mask,transformers,6061727,701,0.12,HuggingFace Live Hub API
+56,FacebookAI/roberta-large,Community/Independent,fill-mask,transformers,5967858,346,0.06,HuggingFace Live Hub API
+57,Systran/faster-whisper-small,Community/Independent,automatic-speech-recognition,ctranslate2,5966939,95,0.02,HuggingFace Live Hub API
+58,baidu/Unlimited-OCR,Community/Independent,image-text-to-text,transformers,5952048,5005,0.84,HuggingFace Live Hub API
+59,pyannote/wespeaker-voxceleb-resnet34-LM,Community/Independent,General AI,pyannote-audio,5864100,227,0.04,HuggingFace Live Hub API
+60,Qwen/Qwen2.5-VL-7B-Instruct,Community/Independent,image-text-to-text,transformers,5824540,1772,0.3,HuggingFace Live Hub API
+61,ornith-ai/Ornith-1.5-9B-GGUF,Community/Independent,text-generation,transformers,5813219,679,0.12,HuggingFace Live Hub API
+62,openai/gpt-oss-20b,Community/Independent,text-generation,transformers,5673703,5303,0.93,HuggingFace Live Hub API
+63,distilbert/distilbert-base-uncased,Community/Independent,fill-mask,transformers,5513551,1148,0.21,HuggingFace Live Hub API
+64,autogluon/chronos-bolt-small,Community/Independent,time-series-forecasting,Open-Source,5484262,86,0.02,HuggingFace Live Hub API
+65,Qwen/Qwen3.8-27B-FP8,Community/Independent,image-text-to-text,transformers,5460964,985,0.18,HuggingFace Live Hub API
+66,coqui/XTTS-v2,Community/Independent,text-to-speech,coqui,5414965,3962,0.73,HuggingFace Live Hub API
+67,microsoft/mdeberta-v3-base,Community/Independent,fill-mask,transformers,5327359,262,0.05,HuggingFace Live Hub API
+68,google/gemma-4-26B-A4B-it,Community/Independent,image-text-to-text,transformers,5251952,1763,0.34,HuggingFace Live Hub API
+69,openai/whisper-base,Community/Independent,automatic-speech-recognition,transformers,5178691,313,0.06,HuggingFace Live Hub API
+70,Qwen/Qwen2.5-1.5B-Instruct,Community/Independent,text-generation,transformers,5145856,941,0.18,HuggingFace Live Hub API
+71,amazon/chronos-bolt-small,Community/Independent,time-series-forecasting,chronos-forecasting,5119819,69,0.01,HuggingFace Live Hub API
+72,Qwen/Qwen3.5-4B,Community/Independent,image-text-to-text,transformers,5087759,1227,0.24,HuggingFace Live Hub API
+73,pyannote/speaker-diarization-community-1,Community/Independent,automatic-speech-recognition,pyannote-audio,5055758,4292,0.85,HuggingFace Live Hub API
+74,huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated-MTP-GGUF,Community/Independent,image-text-to-text,transformers,5009845,101,0.02,HuggingFace Live Hub API
+75,laion/CLIP-ViT-B-32-laion2B-s34B-b79K,Community/Independent,zero-shot-image-classification,open_clip,4954462,157,0.03,HuggingFace Live Hub API
+76,pyannote/segmentation-3.0,Community/Independent,voice-activity-detection,pyannote-audio,4925713,2674,0.54,HuggingFace Live Hub API
+77,Comfy-Org/Wan-2.1,Community/Independent,General AI,diffusion-single-file,4888894,1044,0.21,HuggingFace Live Hub API
+78,openai/whisper-large-v3-turbo,Community/Independent,automatic-speech-recognition,transformers,4880030,3526,0.72,HuggingFace Live Hub API
+79,dphn/dolphin-2.9.1-yi-1.5-34b,Community/Independent,text-generation,transformers,4836827,91,0.02,HuggingFace Live Hub API
+80,intfloat/multilingual-e5-base,Community/Independent,sentence-similarity,sentence-transformers,4818947,421,0.09,HuggingFace Live Hub API
+81,stabilityai/stable-diffusion-xl-base-1.0,Community/Independent,text-to-image,diffusers,4747305,8466,1.78,HuggingFace Live Hub API
+82,Qwen/Qwen3.5-2B,Community/Independent,image-text-to-text,transformers,4626253,481,0.1,HuggingFace Live Hub API
+83,facebook/opt-125m,Community/Independent,text-generation,transformers,4604588,333,0.07,HuggingFace Live Hub API
+84,Xenova/all-MiniLM-L6-v2,Community/Independent,feature-extraction,transformers.js,4565700,181,0.04,HuggingFace Live Hub API
+85,Comfy-Org/Krea-2,Community/Independent,text-to-image,diffusion-single-file,4476534,821,0.18,HuggingFace Live Hub API
+86,Snowflake/snowflake-arctic-embed-l-v2.0,Community/Independent,sentence-similarity,sentence-transformers,4465020,267,0.06,HuggingFace Live Hub API
+87,openai/whisper-small,Community/Independent,automatic-speech-recognition,transformers,4448690,648,0.15,HuggingFace Live Hub API
+88,google/gemma-4-E4B-it,Community/Independent,any-to-any,transformers,4314714,1851,0.43,HuggingFace Live Hub API
+89,Qwen/Qwen2.5-0.5B-Instruct,Community/Independent,text-generation,transformers,4292272,743,0.17,HuggingFace Live Hub API
+90,meta-llama/Llama-3.1-8B-Instruct,Community/Independent,text-generation,transformers,4198546,8912,2.12,HuggingFace Live Hub API
+91,ornith-ai/Ornith-1.5-35B-A3B-GGUF,Community/Independent,text-generation,transformers,4190533,605,0.14,HuggingFace Live Hub API
+92,NeoQuasar/Kronos-Tokenizer-base,Community/Independent,time-series-forecasting,pytorch,4159014,121,0.03,HuggingFace Live Hub API
+93,nvidia/Qwen3.6-35B-A3B-NVFP4,Community/Independent,text-generation,Model Optimizer,4157998,679,0.16,HuggingFace Live Hub API
+94,facebook/esm2_t33_650M_UR50D,Community/Independent,fill-mask,transformers,4096919,109,0.03,HuggingFace Live Hub API
+95,SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF,Community/Independent,image-text-to-text,gguf,4081896,947,0.23,HuggingFace Live Hub API
+96,huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF,Community/Independent,image-text-to-text,transformers,4051917,2054,0.51,HuggingFace Live Hub API
+97,Qwen/Qwen3.6-35B-A3B,Community/Independent,image-text-to-text,transformers,4036202,3122,0.77,HuggingFace Live Hub API
+98,SamLowe/roberta-base-go_emotions,Community/Independent,text-classification,transformers,3996009,718,0.18,HuggingFace Live Hub API
+99,k2-fsa/OmniVoice,Community/Independent,text-to-speech,omnivoice,3933853,1692,0.43,HuggingFace Live Hub API
+100,facebook/wav2vec2-base,Community/Independent,General AI,transformers,3919471,140,0.04,HuggingFace Live Hub API
+101,jonatasgrosman/wav2vec2-large-xlsr-53-portuguese,Community/Independent,automatic-speech-recognition,transformers,3867845,72,0.02,HuggingFace Live Hub API
+102,Qwen/Qwen3.6-35B-A3B-FP8,Community/Independent,image-text-to-text,transformers,3863214,449,0.12,HuggingFace Live Hub API
+103,Qwen/Qwen3-TTS-12Hz-1.7B-Base,Community/Independent,General AI,Open-Source,3834189,593,0.15,HuggingFace Live Hub API
+104,farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit,Community/Independent,text-generation,Open-Source,3778808,7,0.0,HuggingFace Live Hub API
+105,ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF,Community/Independent,text-generation,gguf,3756059,660,0.18,HuggingFace Live Hub API
+106,cross-encoder/ms-marco-MiniLM-L4-v2,Community/Independent,text-ranking,sentence-transformers,3748401,52,0.01,HuggingFace Live Hub API
+107,jonatasgrosman/wav2vec2-large-xlsr-53-russian,Community/Independent,automatic-speech-recognition,transformers,3653200,90,0.02,HuggingFace Live Hub API
+108,timm/tf_efficientnetv2_s.in21k_ft_in1k,Community/Independent,image-classification,timm,3623602,16,0.0,HuggingFace Live Hub API
+109,w11wo/indonesian-roberta-base-posp-tagger,Community/Independent,token-classification,transformers,3585998,22,0.01,HuggingFace Live Hub API
+110,EleutherAI/pythia-160m,Community/Independent,text-generation,transformers,3505550,66,0.02,HuggingFace Live Hub API
+111,Qwen/Qwen3-VL-4B-Instruct,Community/Independent,image-text-to-text,transformers,3492203,535,0.15,HuggingFace Live Hub API
+112,openai/whisper-large-v3,Community/Independent,automatic-speech-recognition,transformers,3448204,6803,1.97,HuggingFace Live Hub API
+113,Arunavaonly/Bangla-twoclass-Sentiment-Analyzer,Community/Independent,text-classification,transformers,3437133,13,0.0,HuggingFace Live Hub API
+114,dropbox-dash/faster-whisper-large-v3-turbo,Community/Independent,General AI,Open-Source,3417277,94,0.03,HuggingFace Live Hub API
+115,facebook/dinov2-base,Community/Independent,image-feature-extraction,transformers,3405024,220,0.06,HuggingFace Live Hub API
+116,charactr/vocos-mel-24khz,Community/Independent,General AI,Open-Source,3316351,57,0.02,HuggingFace Live Hub API
+117,cdiamond/Qwen3.8-27B-iMatrix-NVFP4-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,3287932,51,0.02,HuggingFace Live Hub API
+118,google-bert/bert-base-cased,Community/Independent,fill-mask,transformers,3236392,399,0.12,HuggingFace Live Hub API
+119,ProsusAI/finbert,Community/Independent,text-classification,transformers,3224244,1301,0.4,HuggingFace Live Hub API
+120,Qwen/Qwen3-4B,Community/Independent,text-generation,transformers,3206529,799,0.25,HuggingFace Live Hub API
+121,Qwen/Qwen3.5-0.8B,Community/Independent,image-text-to-text,transformers,3199609,838,0.26,HuggingFace Live Hub API
+122,Qwen/Qwen3-32B,Community/Independent,text-generation,transformers,3145695,794,0.25,HuggingFace Live Hub API
+123,facebook/bart-large-mnli,Community/Independent,zero-shot-classification,transformers,3125869,1639,0.52,HuggingFace Live Hub API
+124,thenlper/gte-small,Community/Independent,sentence-similarity,sentence-transformers,3112432,201,0.06,HuggingFace Live Hub API
+125,Qwen/Qwen3.8-Flash-Next,Community/Independent,image-text-to-text,transformers,3098083,7044,2.27,HuggingFace Live Hub API
+126,unsloth/MiniMax-H3-GGUF,Community/Independent,image-text-to-video,gguf,3060137,420,0.14,HuggingFace Live Hub API
+127,Qwen/Qwen3-1.7B,Community/Independent,text-generation,transformers,3019977,619,0.2,HuggingFace Live Hub API
+128,distilbert/distilbert-base-uncased-finetuned-sst-2-english,Community/Independent,text-classification,transformers,3005809,1009,0.34,HuggingFace Live Hub API
+129,peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF-MTP,Community/Independent,image-text-to-text,gguf,2989135,359,0.12,HuggingFace Live Hub API
+130,google/gemma-4-E2B-it,Community/Independent,any-to-any,transformers,2974420,1130,0.38,HuggingFace Live Hub API
+131,answerdotai/ModernBERT-base,Community/Independent,fill-mask,transformers,2939636,1155,0.39,HuggingFace Live Hub API
+132,trl-internal-testing/tiny-Qwen3ForCausalLM,Community/Independent,text-generation,transformers,2932322,14,0.0,HuggingFace Live Hub API
+133,NeoQuasar/Kronos-small,Community/Independent,time-series-forecasting,Open-Source,2875226,62,0.02,HuggingFace Live Hub API
+134,BAAI/bge-small-zh-v1.5,Community/Independent,feature-extraction,transformers,2854433,172,0.06,HuggingFace Live Hub API
+135,google-t5/t5-base,Community/Independent,translation,transformers,2853651,811,0.28,HuggingFace Live Hub API
+136,lmstudio-community/Qwen3.8-27B-MLX-4bit,Community/Independent,image-text-to-text,transformers,2838898,124,0.04,HuggingFace Live Hub API
+137,FacebookAI/xlm-roberta-large,Community/Independent,fill-mask,transformers,2805099,555,0.2,HuggingFace Live Hub API
+138,Lightricks/LTX-2.5,Community/Independent,image-to-video,diffusion-single-file,2778909,11700,4.21,HuggingFace Live Hub API
+139,microsoft/TRELLIS-image-large,Community/Independent,image-to-3d,trellis,2762068,722,0.26,HuggingFace Live Hub API
+140,Serveurperso/ACE-Step-1.5-GGUF,Community/Independent,General AI,Open-Source,2730948,114,0.04,HuggingFace Live Hub API
+141,amazon/chronos-bolt-mini,Community/Independent,time-series-forecasting,chronos-forecasting,2707633,16,0.01,HuggingFace Live Hub API
+142,Comfy-Org/Qwen-Image,Community/Independent,General AI,diffusion-single-file,2688814,547,0.2,HuggingFace Live Hub API
+143,lmstudio-community/Qwen3.8-27B-MLX-8bit,Community/Independent,image-text-to-text,transformers,2683350,56,0.02,HuggingFace Live Hub API
+144,lmstudio-community/Qwen3.8-27B-MLX-6bit,Community/Independent,image-text-to-text,transformers,2660883,44,0.02,HuggingFace Live Hub API
+145,lmstudio-community/Qwen3.8-27B-MLX-5bit,Community/Independent,image-text-to-text,transformers,2657663,19,0.01,HuggingFace Live Hub API
+146,mlx-community/parakeet-tdt-0.6b-v3,Community/Independent,automatic-speech-recognition,mlx,2652112,72,0.03,HuggingFace Live Hub API
+147,Qwen/Qwen3-4B-Instruct-2507,Community/Independent,text-generation,transformers,2621624,1053,0.4,HuggingFace Live Hub API
+148,Qwen/Qwen3-Reranker-4B,Community/Independent,text-ranking,transformers,2616474,193,0.07,HuggingFace Live Hub API
+149,sentence-transformers/all-MiniLM-L12-v2,Community/Independent,sentence-similarity,sentence-transformers,2610862,353,0.14,HuggingFace Live Hub API
+150,microsoft/TRELLIS.2-4B,Community/Independent,image-to-3d,trellis2,2540175,1487,0.59,HuggingFace Live Hub API
+151,Xenova/bge-base-en-v1.5,Community/Independent,feature-extraction,transformers.js,2536810,28,0.01,HuggingFace Live Hub API
+152,unsloth/gemma-4-12b-it-GGUF,Community/Independent,image-text-to-text,Open-Source,2521004,965,0.38,HuggingFace Live Hub API
+153,Kijai/WanVideo_comfy,Community/Independent,General AI,diffusion-single-file,2518056,2587,1.03,HuggingFace Live Hub API
+154,MahmoudAshraf/mms-300m-1130-forced-aligner,Community/Independent,automatic-speech-recognition,transformers,2506176,121,0.05,HuggingFace Live Hub API
+155,autogluon/chronos-2-small,Community/Independent,time-series-forecasting,chronos-forecasting,2504507,28,0.01,HuggingFace Live Hub API
+156,facebook/dinov2-small,Community/Independent,image-feature-extraction,transformers,2502790,89,0.04,HuggingFace Live Hub API
+157,HuggingFaceTB/SmolLM2-135M,Community/Independent,text-generation,transformers,2491411,269,0.11,HuggingFace Live Hub API
+158,ResembleAI/chatterbox,Community/Independent,text-to-speech,chatterbox,2464516,1912,0.78,HuggingFace Live Hub API
+159,openai/gpt-oss-120b,Community/Independent,text-generation,transformers,2433479,5513,2.27,HuggingFace Live Hub API
+160,Systran/faster-whisper-tiny,Community/Independent,automatic-speech-recognition,ctranslate2,2431482,36,0.01,HuggingFace Live Hub API
+161,Qwen/Qwen3.6-27B,Community/Independent,image-text-to-text,transformers,2416465,2352,0.97,HuggingFace Live Hub API
+162,datasocietyco/bge-base-en-v1.5-course-recommender-v5,Community/Independent,sentence-similarity,sentence-transformers,2396102,24,0.01,HuggingFace Live Hub API
+163,Qwen/Qwen3-Embedding-4B,Community/Independent,feature-extraction,sentence-transformers,2389117,351,0.15,HuggingFace Live Hub API
+164,microsoft/deberta-v3-base,Community/Independent,fill-mask,transformers,2384100,472,0.2,HuggingFace Live Hub API
+165,emilyalsentzer/Bio_ClinicalBERT,Community/Independent,fill-mask,transformers,2383363,454,0.19,HuggingFace Live Hub API
+166,jonatasgrosman/wav2vec2-large-xlsr-53-polish,Community/Independent,automatic-speech-recognition,transformers,2379808,27,0.01,HuggingFace Live Hub API
+167,unsloth/Qwen3.6-35B-A3B-MTP-GGUF,Community/Independent,image-text-to-text,transformers,2367476,1054,0.45,HuggingFace Live Hub API
+168,deepseek-ai/DeepSeek-V4-Flash-0731,Community/Independent,text-generation,transformers,2366650,4102,1.73,HuggingFace Live Hub API
+169,cardiffnlp/twitter-roberta-base-sentiment-latest,Community/Independent,text-classification,transformers,2366390,857,0.36,HuggingFace Live Hub API
+170,audeering/wav2vec2-large-robust-24-ft-age-gender,Community/Independent,audio-classification,transformers,2363763,87,0.04,HuggingFace Live Hub API
+171,vikhyatk/moondream2,Community/Independent,image-text-to-text,transformers,2358816,1452,0.62,HuggingFace Live Hub API
+172,trl-internal-testing/tiny-Qwen2ForCausalLM-2.5,Community/Independent,text-generation,transformers,2356442,60,0.03,HuggingFace Live Hub API
+173,ornith-ai/Ornith-1.0-9B-GGUF,Community/Independent,text-generation,transformers,2350868,702,0.3,HuggingFace Live Hub API
+174,handy-computer/parakeet-unified-en-0.6b-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,2349691,21,0.01,HuggingFace Live Hub API
+175,Qwen/Qwen3-Embedding-8B,Community/Independent,feature-extraction,sentence-transformers,2333798,858,0.37,HuggingFace Live Hub API
+176,Systran/faster-whisper-base,Community/Independent,automatic-speech-recognition,ctranslate2,2333501,55,0.02,HuggingFace Live Hub API
+177,BAAI/bge-base-en,Community/Independent,feature-extraction,transformers,2329483,73,0.03,HuggingFace Live Hub API
+178,JonathanColetti/Qwen3.8-27B-Uncensored-GGUF,Community/Independent,text-generation,llama.cpp,2327780,1989,0.85,HuggingFace Live Hub API
+179,unsloth/Qwen3.8-Flash-Next-GGUF,Community/Independent,image-text-to-text,Open-Source,2322693,1658,0.71,HuggingFace Live Hub API
+180,BAAI/bge-reranker-base,Community/Independent,text-classification,sentence-transformers,2269938,263,0.12,HuggingFace Live Hub API
+181,mixedbread-ai/mxbai-embed-large-v1,Community/Independent,feature-extraction,sentence-transformers,2246753,846,0.38,HuggingFace Live Hub API
+182,Qwen/Qwen2.5-3B-Instruct,Community/Independent,text-generation,transformers,2205772,641,0.29,HuggingFace Live Hub API
+183,pnnbao-ump/VieNeu-TTS-v3-Turbo,Community/Independent,text-to-speech,Open-Source,2173654,110,0.05,HuggingFace Live Hub API
+184,Systran/faster-whisper-medium,Community/Independent,automatic-speech-recognition,ctranslate2,2151777,79,0.04,HuggingFace Live Hub API
+185,sentence-transformers/all-distilroberta-v1,Community/Independent,sentence-similarity,sentence-transformers,2139928,56,0.03,HuggingFace Live Hub API
+186,DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,2137747,1654,0.77,HuggingFace Live Hub API
+187,google/siglip2-giant-opt-patch16-384,Community/Independent,zero-shot-image-classification,transformers,2136097,59,0.03,HuggingFace Live Hub API
+188,Qdrant/bge-small-en-v1.5-onnx-Q,Community/Independent,sentence-similarity,transformers,2131618,15,0.01,HuggingFace Live Hub API
+189,jonatasgrosman/wav2vec2-large-xlsr-53-dutch,Community/Independent,automatic-speech-recognition,transformers,2106366,29,0.01,HuggingFace Live Hub API
+190,facebook/sam3,Community/Independent,mask-generation,transformers,2092498,6491,3.1,HuggingFace Live Hub API
+191,jonatasgrosman/wav2vec2-large-xlsr-53-arabic,Community/Independent,automatic-speech-recognition,transformers,2084343,70,0.03,HuggingFace Live Hub API
+192,Qwen/Qwen3-VL-8B-Instruct-GGUF,Community/Independent,image-text-to-text,transformers,2082510,218,0.1,HuggingFace Live Hub API
+193,byteshape/Qwen3.8-27B-GGUF,Community/Independent,image-text-to-text,transformers,2080420,216,0.1,HuggingFace Live Hub API
+194,microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext,Community/Independent,fill-mask,transformers,2075138,348,0.17,HuggingFace Live Hub API
+195,circlestone-labs/Anima,Community/Independent,General AI,diffusion-single-file,2072108,2597,1.25,HuggingFace Live Hub API
+196,docling-project/docling-layout-heron,Community/Independent,General AI,Open-Source,2069949,72,0.03,HuggingFace Live Hub API
+197,E-MIMIC/inclusively-reformulation-it5,Community/Independent,General AI,transformers,2055562,13,0.01,HuggingFace Live Hub API
+198,BAAI/bge-reranker-large,Community/Independent,feature-extraction,transformers,2023380,486,0.24,HuggingFace Live Hub API
+199,unsloth/Qwen3.5-9B-GGUF,Community/Independent,image-text-to-text,transformers,2005279,1079,0.54,HuggingFace Live Hub API
+200,timm/resnet18.a1_in1k,Community/Independent,image-classification,timm,1965646,31,0.02,HuggingFace Live Hub API
+201,facebook/musicgen-medium,Community/Independent,text-to-audio,transformers,1965341,179,0.09,HuggingFace Live Hub API
+202,google-bert/bert-base-multilingual-uncased,Community/Independent,fill-mask,transformers,1955726,177,0.09,HuggingFace Live Hub API
+203,unsloth/gemma-4-26B-A4B-it-GGUF,Community/Independent,image-text-to-text,Open-Source,1924571,1288,0.67,HuggingFace Live Hub API
+204,MIT/ast-finetuned-audioset-10-10-0.4593,Community/Independent,audio-classification,transformers,1923883,390,0.2,HuggingFace Live Hub API
+205,Comfy-Org/Qwen-Image-Edit,Community/Independent,General AI,diffusion-single-file,1917314,521,0.27,HuggingFace Live Hub API
+206,jonatasgrosman/wav2vec2-large-xlsr-53-greek,Community/Independent,automatic-speech-recognition,transformers,1912771,15,0.01,HuggingFace Live Hub API
+207,speechbrain/spkrec-ecapa-voxceleb,Community/Independent,General AI,speechbrain,1912322,370,0.19,HuggingFace Live Hub API
+208,sentence-transformers/paraphrase-mpnet-base-v2,Community/Independent,sentence-similarity,sentence-transformers,1903823,60,0.03,HuggingFace Live Hub API
+209,deepseek-ai/DeepSeek-OCR,Community/Independent,image-text-to-text,transformers,1901496,3463,1.82,HuggingFace Live Hub API
+210,scragnog/MOSS-Music-8B-Instruct-GGUF,Community/Independent,audio-text-to-text,Open-Source,1900229,11,0.01,HuggingFace Live Hub API
+211,ibm-granite/granite-timeseries-ttm-r3,Community/Independent,time-series-forecasting,Open-Source,1886982,20,0.01,HuggingFace Live Hub API
+212,nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16,Community/Independent,text-generation,transformers,1886053,142,0.08,HuggingFace Live Hub API
+213,unsloth/Qwen3.8-27B-NVFP4,Community/Independent,General AI,Open-Source,1871725,540,0.29,HuggingFace Live Hub API
+214,iitolstykh/mivolo_v2,Community/Independent,General AI,mivolo,1863304,48,0.03,HuggingFace Live Hub API
+215,zai-org/GLM-5.3,Community/Independent,text-generation,transformers,1853368,2436,1.31,HuggingFace Live Hub API
+216,Qwen/Qwen2.5-Coder-14B-Instruct,Community/Independent,text-generation,transformers,1831296,214,0.12,HuggingFace Live Hub API
+217,handy-computer/nemotron-3.5-asr-streaming-0.6b-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,1829378,33,0.02,HuggingFace Live Hub API
+218,nvidia/bigvgan_v2_22khz_80band_256x,Community/Independent,audio-to-audio,PyTorch,1819249,42,0.02,HuggingFace Live Hub API
+219,zai-org/GLM-OCR,Community/Independent,image-to-text,transformers,1818843,2217,1.22,HuggingFace Live Hub API
+220,lightx2v/Minimax-h3-Turbo,Community/Independent,General AI,minimax-h3,1813895,1208,0.67,HuggingFace Live Hub API
+221,Qwen/Qwen3-14B-AWQ,Community/Independent,text-generation,transformers,1805152,89,0.05,HuggingFace Live Hub API
+222,Qwen/Qwen2.5-VL-3B-Instruct,Community/Independent,image-text-to-text,transformers,1804564,747,0.41,HuggingFace Live Hub API
+223,intfloat/multilingual-e5-large-instruct,Community/Independent,feature-extraction,sentence-transformers,1803560,656,0.36,HuggingFace Live Hub API
+224,jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn,Community/Independent,automatic-speech-recognition,transformers,1797677,149,0.08,HuggingFace Live Hub API
+225,facebook/wav2vec2-base-960h,Community/Independent,automatic-speech-recognition,transformers,1794378,418,0.23,HuggingFace Live Hub API
+226,HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,1792224,2501,1.4,HuggingFace Live Hub API
+227,mistralai/Mistral-7B-Instruct-v0.3,Community/Independent,General AI,vllm,1788262,3838,2.15,HuggingFace Live Hub API
+228,deepseek-ai/DeepSeek-V4.1-Flash,Community/Independent,image-text-to-text,transformers,1772553,4960,2.8,HuggingFace Live Hub API
+229,laion/CLIP-ViT-L-14-laion2B-s32B-b82K,Community/Independent,zero-shot-image-classification,open_clip,1770303,79,0.04,HuggingFace Live Hub API
+230,nvidia/Gemma-4-26B-A4B-NVFP4,Community/Independent,text-generation,Model Optimizer,1769823,171,0.1,HuggingFace Live Hub API
+231,Qwen/Qwen3-Coder-30B-A3B-Instruct,Community/Independent,text-generation,transformers,1768086,1331,0.75,HuggingFace Live Hub API
+232,HuggingFaceTB/SmolVLM2-500M-Video-Instruct,Community/Independent,image-text-to-text,transformers,1764156,204,0.12,HuggingFace Live Hub API
+233,Alibaba-NLP/gte-large-en-v1.5,Community/Independent,sentence-similarity,transformers,1742358,254,0.15,HuggingFace Live Hub API
+234,sentence-transformers/distiluse-base-multilingual-cased-v1,Community/Independent,sentence-similarity,sentence-transformers,1736579,146,0.08,HuggingFace Live Hub API
+235,google/timesfm-2.5-200m-pytorch,Community/Independent,time-series-forecasting,timesfm,1729596,282,0.16,HuggingFace Live Hub API
+236,autogluon/chronos-bolt-base,Community/Independent,time-series-forecasting,Open-Source,1721680,46,0.03,HuggingFace Live Hub API
+237,handy-computer/Qwen3-ASR-1.7B-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,1717363,5,0.0,HuggingFace Live Hub API
+238,mradermacher/Ornith-1.5-9B-uncensored-GGUF,Community/Independent,General AI,transformers,1712796,280,0.16,HuggingFace Live Hub API
+239,google/gemma-4-12B-it,Community/Independent,any-to-any,transformers,1692454,1739,1.03,HuggingFace Live Hub API
+240,nvidia/bigvgan_v2_44khz_128band_512x,Community/Independent,audio-to-audio,PyTorch,1686800,85,0.05,HuggingFace Live Hub API
+241,DeepBeepMeep/MiniMax-H3,Community/Independent,General AI,diffusion-single-file,1686205,88,0.05,HuggingFace Live Hub API
+242,Systran/faster-whisper-large-v3,Community/Independent,automatic-speech-recognition,ctranslate2,1671983,714,0.43,HuggingFace Live Hub API
+243,unsloth/Qwen3.6-35B-A3B-GGUF,Community/Independent,image-text-to-text,transformers,1667634,1793,1.08,HuggingFace Live Hub API
+244,deepseek-ai/DeepSeek-R1,Community/Independent,text-generation,transformers,1653912,14452,8.74,HuggingFace Live Hub API
+245,Qwen/Qwen3.5-27B,Community/Independent,image-text-to-text,transformers,1650795,1091,0.66,HuggingFace Live Hub API
+246,timm/resnet50.a1_in1k,Community/Independent,image-classification,timm,1647016,53,0.03,HuggingFace Live Hub API
+247,DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,1639400,3016,1.84,HuggingFace Live Hub API
+248,indonesian-nlp/wav2vec2-indonesian-javanese-sundanese,Community/Independent,automatic-speech-recognition,transformers,1634029,25,0.02,HuggingFace Live Hub API
+249,autotrust/AutoTrust-Decider-Pro-35B,Community/Independent,text-classification,transformers,1633247,3395,2.08,HuggingFace Live Hub API
+250,nvidia/Cosmos3-Nano,Community/Independent,General AI,cosmos,1633136,421,0.26,HuggingFace Live Hub API
+251,Qwen/Qwen3-ASR-1.7B,Community/Independent,automatic-speech-recognition,Open-Source,1616634,1247,0.77,HuggingFace Live Hub API
+252,Falconsai/nsfw_image_detection,Community/Independent,image-classification,transformers,1604331,1229,0.77,HuggingFace Live Hub API
+253,ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF,Community/Independent,text-generation,gguf,1604076,516,0.32,HuggingFace Live Hub API
+254,unsloth/Qwen-Image-2.1-GGUF,Community/Independent,text-to-image,Open-Source,1602542,471,0.29,HuggingFace Live Hub API
+255,colbert-ir/colbertv2.0,Community/Independent,General AI,transformers,1600992,379,0.24,HuggingFace Live Hub API
+256,laion/CLIP-convnext_base_w-laion2B-s13B-b82K-augreg,Community/Independent,zero-shot-image-classification,open_clip,1584973,21,0.01,HuggingFace Live Hub API
+257,Qwen/Qwen3-4B-Instruct-2507-FP8,Community/Independent,text-generation,transformers,1584640,91,0.06,HuggingFace Live Hub API
+258,autogluon/chronos-bolt-tiny,Community/Independent,time-series-forecasting,Open-Source,1579764,23,0.01,HuggingFace Live Hub API
+259,Qwen/Qwen2.5-7B-Instruct-AWQ,Community/Independent,text-generation,transformers,1578054,63,0.04,HuggingFace Live Hub API
+260,Qdrant/all-MiniLM-L6-v2-onnx,Community/Independent,sentence-similarity,transformers,1577211,29,0.02,HuggingFace Live Hub API
+261,remsky/kokoro-inno-clone-tuner,Community/Independent,text-to-speech,Open-Source,1567510,39,0.02,HuggingFace Live Hub API
+262,Systran/faster-whisper-small.en,Community/Independent,automatic-speech-recognition,ctranslate2,1563036,26,0.02,HuggingFace Live Hub API
+263,jonatasgrosman/wav2vec2-large-xlsr-53-hungarian,Community/Independent,automatic-speech-recognition,transformers,1558059,17,0.01,HuggingFace Live Hub API
+264,unsloth/Qwen3.5-4B-GGUF,Community/Independent,image-text-to-text,transformers,1552691,558,0.36,HuggingFace Live Hub API
+265,thinkingmachines/Inkling,Community/Independent,image-text-to-text,transformers,1539868,1849,1.2,HuggingFace Live Hub API
+266,google-bert/bert-base-multilingual-cased,Community/Independent,fill-mask,transformers,1539340,623,0.4,HuggingFace Live Hub API
+267,sentence-transformers/paraphrase-MiniLM-L6-v2,Community/Independent,sentence-similarity,sentence-transformers,1539289,164,0.11,HuggingFace Live Hub API
+268,IDEA-Research/grounding-dino-base,Community/Independent,zero-shot-object-detection,transformers,1537079,229,0.15,HuggingFace Live Hub API
+269,Qwen/Qwen2.5-Coder-7B-Instruct,Community/Independent,text-generation,transformers,1536760,872,0.57,HuggingFace Live Hub API
+270,intfloat/e5-small-v2,Community/Independent,sentence-similarity,sentence-transformers,1524925,136,0.09,HuggingFace Live Hub API
+271,prism-ml/Ternary-Bonsai-2-27B-gguf,Community/Independent,text-generation,llama.cpp,1522102,3006,1.97,HuggingFace Live Hub API
+272,openai/clip-vit-base-patch16,Community/Independent,zero-shot-image-classification,transformers,1521298,184,0.12,HuggingFace Live Hub API
+273,handy-computer/parakeet-ultra-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,1517930,8,0.01,HuggingFace Live Hub API
+274,autotrust/AutoTrust-Decider-Pro-Vision-27B,Community/Independent,image-text-to-text,transformers,1512222,4690,3.1,HuggingFace Live Hub API
+275,mistralai/Voxtral-Mini-4B-Realtime-2602,Community/Independent,automatic-speech-recognition,vllm,1511441,1061,0.7,HuggingFace Live Hub API
+276,google/owlv2-base-patch16-ensemble,Community/Independent,zero-shot-object-detection,transformers,1498161,148,0.1,HuggingFace Live Hub API
+277,Qwen/Qwen3.5-35B-A3B,Community/Independent,image-text-to-text,transformers,1489457,1559,1.05,HuggingFace Live Hub API
+278,Qwen/Qwen3-VL-8B-Instruct-FP8,Community/Independent,image-text-to-text,transformers,1484311,96,0.06,HuggingFace Live Hub API
+279,StanfordAIMI/stanford-deidentifier-base,Community/Independent,token-classification,transformers,1481357,94,0.06,HuggingFace Live Hub API
+280,ornith-ai/Ornith-1.0-35B,Community/Independent,text-generation,transformers,1477105,518,0.35,HuggingFace Live Hub API
+281,jinaai/jina-reranker-v2-base-multilingual,Community/Independent,text-ranking,transformers,1475738,371,0.25,HuggingFace Live Hub API
+282,ornith-ai/Ornith-1.0-35B-GGUF,Community/Independent,text-generation,transformers,1465485,1065,0.73,HuggingFace Live Hub API
+283,openai/clip-vit-large-patch14-336,Community/Independent,zero-shot-image-classification,transformers,1441548,328,0.23,HuggingFace Live Hub API
+284,distilbert/distilgpt2,Community/Independent,text-generation,transformers,1438177,667,0.46,HuggingFace Live Hub API
+285,jhgan/ko-sroberta-multitask,Community/Independent,sentence-similarity,sentence-transformers,1437236,156,0.11,HuggingFace Live Hub API
+286,docling-project/docling-models,Community/Independent,General AI,transformers,1428438,235,0.16,HuggingFace Live Hub API
+287,litert-community/gemma-4-E2B-it-litert-lm,Community/Independent,General AI,litert-lm,1425761,547,0.38,HuggingFace Live Hub API
+288,unsloth/Qwen-Image-2.1-Turbo-GGUF,Community/Independent,text-to-image,gguf,1425566,88,0.06,HuggingFace Live Hub API
+289,sentence-transformers/multi-qa-mpnet-base-dot-v1,Community/Independent,sentence-similarity,sentence-transformers,1423480,207,0.15,HuggingFace Live Hub API
+290,agentionai/Qwen3.8-Flash-Next-Gyro-GGUF,Community/Independent,image-text-to-text,gguf,1422664,197,0.14,HuggingFace Live Hub API
+291,nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16,Community/Independent,text-generation,transformers,1417435,840,0.59,HuggingFace Live Hub API
+292,deepseek-ai/DeepSeek-V3,Community/Independent,text-generation,transformers,1413463,4461,3.16,HuggingFace Live Hub API
+293,jinaai/jina-embeddings-v3,Community/Independent,feature-extraction,transformers,1405320,1174,0.84,HuggingFace Live Hub API
+294,Qwen/Qwen3-8B-AWQ,Community/Independent,text-generation,transformers,1403167,70,0.05,HuggingFace Live Hub API
+295,cambridgeltl/SapBERT-from-PubMedBERT-fulltext,Community/Independent,feature-extraction,transformers,1398221,89,0.06,HuggingFace Live Hub API
+296,Qwen/Qwen2.5-3B-Instruct-AWQ,Community/Independent,text-generation,transformers,1396953,28,0.02,HuggingFace Live Hub API
+297,peculiar-ragdoll/Dirk-Qwen3.8-27B-GGUF,Community/Independent,image-text-to-text,gguf,1395297,272,0.19,HuggingFace Live Hub API
+298,prism-ml/Ternary-Bonsai-2-9B-gguf,Community/Independent,image-text-to-text,llama.cpp,1392167,174,0.12,HuggingFace Live Hub API
+299,DeepBeepMeep/Wan2.1,Community/Independent,General AI,diffusion-single-file,1391149,74,0.05,HuggingFace Live Hub API
+300,depth-anything/Depth-Anything-V2-Small-hf,Community/Independent,depth-estimation,transformers,1387663,75,0.05,HuggingFace Live Hub API
+301,farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA,Community/Independent,text-generation,transformers,1385030,3,0.0,HuggingFace Live Hub API
+302,timm/vit_small_patch14_dinov2.lvd142m,Community/Independent,image-feature-extraction,timm,1374798,17,0.01,HuggingFace Live Hub API
+303,Alibaba-NLP/gte-reranker-modernbert-base,Community/Independent,text-ranking,transformers,1366363,113,0.08,HuggingFace Live Hub API
+304,microsoft/wavlm-large,Community/Independent,feature-extraction,transformers,1359122,124,0.09,HuggingFace Live Hub API
+305,ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF,Community/Independent,image-text-to-text,gguf,1355677,2746,2.03,HuggingFace Live Hub API
+306,google/siglip2-base-patch16-224,Community/Independent,zero-shot-image-classification,transformers,1353414,162,0.12,HuggingFace Live Hub API
+307,SG161222/RealVisXL_V5.0,Community/Independent,text-to-image,diffusers,1352910,288,0.21,HuggingFace Live Hub API
+308,Comfy-Org/Flux-1-Dev,Community/Independent,text-to-image,diffusion-single-file,1349663,716,0.53,HuggingFace Live Hub API
+309,Serveurperso/Qwen3-TTS-GGUF,Community/Independent,text-to-speech,gguf,1347066,67,0.05,HuggingFace Live Hub API
+310,empero-ai/Qwen3.8-35B-A3B-Distill-GGUF,Community/Independent,text-generation,gguf,1346150,278,0.21,HuggingFace Live Hub API
+311,datalab-to/chandra-ocr-2,Community/Independent,image-text-to-text,transformers,1345920,606,0.45,HuggingFace Live Hub API
+312,unsloth/DeepSeek-V4.1-Flash-1017-GGUF,Community/Independent,image-text-to-text,Open-Source,1345104,390,0.29,HuggingFace Live Hub API
+313,meta-llama/Prompt-Guard-86M,Community/Independent,text-classification,transformers,1344275,435,0.32,HuggingFace Live Hub API
+314,Qwen/Qwen3.6-27B-FP8,Community/Independent,image-text-to-text,transformers,1338394,377,0.28,HuggingFace Live Hub API
+315,SWivid/F5-TTS,Community/Independent,text-to-speech,f5-tts,1335845,1230,0.92,HuggingFace Live Hub API
+316,distilbert/distilroberta-base,Community/Independent,fill-mask,transformers,1333417,193,0.14,HuggingFace Live Hub API
+317,black-forest-labs/flux-3-image-klein-comfy,Community/Independent,image-to-image,diffusion-single-file,1330289,3064,2.3,HuggingFace Live Hub API
+318,meta-llama/Llama-3.2-1B-Instruct,Community/Independent,text-generation,transformers,1314606,1978,1.5,HuggingFace Live Hub API
+319,HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive,Community/Independent,image-text-to-text,Open-Source,1310361,4167,3.18,HuggingFace Live Hub API
+320,Comfy-Org/Flux-2-Klein-4B,Community/Independent,text-to-image,diffusion-single-file,1310083,125,0.1,HuggingFace Live Hub API
+321,microsoft/table-transformer-structure-recognition,Community/Independent,object-detection,transformers,1307876,245,0.19,HuggingFace Live Hub API
+322,ornith-ai/Ornith-1.5-397B-GGUF,Community/Independent,text-generation,transformers,1307442,53,0.04,HuggingFace Live Hub API
+323,peasantsmith/GLM-5.3-Flash-Maya-GGUF,Community/Independent,text-generation,Open-Source,1301281,111,0.09,HuggingFace Live Hub API
+324,PekingU/rtdetr_r101vd_coco_o365,Community/Independent,object-detection,transformers,1299770,36,0.03,HuggingFace Live Hub API
+325,mistralai/Mistral-7B-Instruct-v0.2,Community/Independent,text-generation,transformers,1296636,3281,2.53,HuggingFace Live Hub API
+326,comfyicu/LTX-2.5,Community/Independent,image-to-video,diffusion-single-file,1296537,15,0.01,HuggingFace Live Hub API
+327,comodoro/wav2vec2-xls-r-300m-cs-250,Community/Independent,automatic-speech-recognition,transformers,1290077,13,0.01,HuggingFace Live Hub API
+328,Systran/faster-whisper-base.en,Community/Independent,automatic-speech-recognition,ctranslate2,1287247,9,0.01,HuggingFace Live Hub API
+329,timm/efficientvit_l2.r288_in1k,Community/Independent,image-classification,timm,1283928,0,0.0,HuggingFace Live Hub API
+330,lmstudio-community/gemma-4-E4B-it-MLX-4bit,Community/Independent,any-to-any,transformers,1283808,37,0.03,HuggingFace Live Hub API
+331,airesearch/wav2vec2-large-xlsr-53-th,Community/Independent,automatic-speech-recognition,transformers,1278430,39,0.03,HuggingFace Live Hub API
+332,Salesforce/blip-image-captioning-base,Community/Independent,image-to-text,transformers,1273906,905,0.71,HuggingFace Live Hub API
+333,agentionai/Qwen3.8-Flash-Next-Gyro-abliterated-Huihui-GGUF,Community/Independent,image-text-to-text,gguf,1273649,57,0.04,HuggingFace Live Hub API
+334,google/gemma-4-E4B-it-qat-q4_0-gguf,Community/Independent,any-to-any,Open-Source,1259022,193,0.15,HuggingFace Live Hub API
+335,Comfy-Org/MiniMax-H3-Image,Community/Independent,text-to-image,diffusion-single-file,1257301,325,0.26,HuggingFace Live Hub API
+336,facebook/w2v-bert-2.0,Community/Independent,feature-extraction,transformers,1256396,243,0.19,HuggingFace Live Hub API
+337,Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice,Community/Independent,text-to-speech,Open-Source,1254771,2226,1.77,HuggingFace Live Hub API
+338,google/siglip2-base-patch16-naflex,Community/Independent,zero-shot-image-classification,transformers,1249861,52,0.04,HuggingFace Live Hub API
+339,Comfy-Org/Qwen3-VL,Community/Independent,General AI,diffusion-single-file,1245962,118,0.09,HuggingFace Live Hub API
+340,lmstudio-community/gemma-4-E4B-it-MLX-8bit,Community/Independent,any-to-any,transformers,1245622,22,0.02,HuggingFace Live Hub API
+341,lmstudio-community/gemma-4-E4B-it-MLX-6bit,Community/Independent,any-to-any,transformers,1241345,18,0.01,HuggingFace Live Hub API
+342,lmstudio-community/gemma-4-E4B-it-MLX-5bit,Community/Independent,any-to-any,transformers,1241000,7,0.01,HuggingFace Live Hub API
+343,zai-org/GLM-5,Community/Independent,text-generation,transformers,1240185,2141,1.73,HuggingFace Live Hub API
+344,flair/ner-german-large,Community/Independent,token-classification,flair,1234984,45,0.04,HuggingFace Live Hub API
+345,cyankiwi/gemma-4-26B-A4B-it-AWQ-4bit,Community/Independent,image-text-to-text,transformers,1233206,111,0.09,HuggingFace Live Hub API
+346,KBLab/wav2vec2-large-voxrex-swedish,Community/Independent,automatic-speech-recognition,transformers,1228743,26,0.02,HuggingFace Live Hub API
+347,Qwen/Qwen3-Reranker-0.6B,Community/Independent,text-ranking,transformers,1224216,439,0.36,HuggingFace Live Hub API
+348,prism-ml/Ternary-Bonsai-2-2B-gguf,Community/Independent,image-text-to-text,llama.cpp,1213106,54,0.04,HuggingFace Live Hub API
+349,Qdrant/multilingual-e5-large-onnx,Community/Independent,sentence-similarity,transformers,1209400,7,0.01,HuggingFace Live Hub API
+350,cross-encoder/mmarco-mMiniLMv2-L12-H384-v1,Community/Independent,text-ranking,sentence-transformers,1208998,98,0.08,HuggingFace Live Hub API
+351,deepseek-ai/DeepSeek-V4-Flash,Community/Independent,text-generation,transformers,1206494,2395,1.99,HuggingFace Live Hub API
+352,RedHatAI/gemma-4-26B-A4B-it-FP8-dynamic,Community/Independent,image-text-to-text,transformers,1201257,61,0.05,HuggingFace Live Hub API
+353,Bingsu/yolo-world-mirror,Community/Independent,General AI,ultralytics,1199549,18,0.02,HuggingFace Live Hub API
+354,handy-computer/parakeet-tdt-0.6b-v3-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,1196081,11,0.01,HuggingFace Live Hub API
+355,google/gemma-4-12B-it-qat-q4_0-gguf,Community/Independent,any-to-any,transformers,1186410,398,0.34,HuggingFace Live Hub API
+356,WarmBloodAban/Minimax-h3_Singularity,Community/Independent,image-to-video,minimax-h3,1184069,987,0.83,HuggingFace Live Hub API
+357,jegreene/Swift-1.5-Qwen3.8-27B-heretic-GSQ-RCO-GGUF,Community/Independent,image-text-to-text,gguf,1182829,35,0.03,HuggingFace Live Hub API
+358,Lightricks/LTX-Video,Community/Independent,image-to-video,diffusers,1180743,2424,2.05,HuggingFace Live Hub API
+359,kresnik/wav2vec2-large-xlsr-korean,Community/Independent,automatic-speech-recognition,transformers,1176666,66,0.06,HuggingFace Live Hub API
+360,drbaph/Higgs-Audio-v3-Studio,Community/Independent,text-to-speech,Open-Source,1174611,9,0.01,HuggingFace Live Hub API
+361,zai-org/GLM-4.5-Air,Community/Independent,text-generation,transformers,1167675,650,0.56,HuggingFace Live Hub API
+362,rippertnt/HyperCLOVAX-SEED-Text-Instruct-1.5B-Q4_K_M-GGUF,Community/Independent,General AI,Open-Source,1164917,17,0.01,HuggingFace Live Hub API
+363,Qwen/Qwen2.5-0.5B,Community/Independent,text-generation,transformers,1163625,495,0.43,HuggingFace Live Hub API
+364,rizvandwiki/gender-classification,Community/Independent,image-classification,transformers,1159298,76,0.07,HuggingFace Live Hub API
+365,tencent/Hy-MT2-7B-GGUF,Community/Independent,General AI,Open-Source,1158882,104,0.09,HuggingFace Live Hub API
+366,Serveurperso/MiniMax-Music3-GGUF,Community/Independent,General AI,Open-Source,1155362,7,0.01,HuggingFace Live Hub API
+367,Qwen/Qwen3-30B-A3B,Community/Independent,text-generation,transformers,1153355,983,0.85,HuggingFace Live Hub API
+368,QuantStack/Wan2.2-I2V-A14B-GGUF,Community/Independent,image-to-video,gguf,1149906,467,0.41,HuggingFace Live Hub API
+369,hindsight-ai/hs-rerank-1,Community/Independent,text-ranking,sentence-transformers,1148007,6,0.01,HuggingFace Live Hub API
+370,migtissera/Tess-4.5-27B-GGUF,Community/Independent,image-text-to-text,gguf,1147601,65,0.06,HuggingFace Live Hub API
+371,nvidia/Gemma-4-31B-IT-NVFP4,Community/Independent,text-generation,Model Optimizer,1140518,588,0.52,HuggingFace Live Hub API
+372,handy-computer/cohere-transcribe-03-2026-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,1131200,11,0.01,HuggingFace Live Hub API
+373,0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF,Community/Independent,text-generation,transformers,1131036,875,0.77,HuggingFace Live Hub API
+374,ornith-ai/Ornith-1.5-35B-A3B-NVFP4,Community/Independent,text-generation,transformers,1124337,73,0.06,HuggingFace Live Hub API
+375,ornith-ai/Ornith-1.5-9B-NVFP4,Community/Independent,text-generation,transformers,1123712,18,0.02,HuggingFace Live Hub API
+376,Qwen/Qwen2.5-14B-Instruct-AWQ,Community/Independent,text-generation,transformers,1122339,53,0.05,HuggingFace Live Hub API
+377,Qwen/Qwen2.5-VL-7B-Instruct-AWQ,Community/Independent,image-text-to-text,transformers,1118477,120,0.11,HuggingFace Live Hub API
+378,unsloth/Llama-3.2-1B-Instruct,Community/Independent,text-generation,transformers,1103060,112,0.1,HuggingFace Live Hub API
+379,deepvk/USER2-base,Community/Independent,sentence-similarity,sentence-transformers,1101902,32,0.03,HuggingFace Live Hub API
+380,amazon/chronos-bolt-tiny,Community/Independent,time-series-forecasting,chronos-forecasting,1099707,32,0.03,HuggingFace Live Hub API
+381,WhereIsAI/UAE-Large-V1,Community/Independent,feature-extraction,sentence-transformers,1095927,242,0.22,HuggingFace Live Hub API
+382,Qwen/Qwen3.5-35B-A3B-FP8,Community/Independent,image-text-to-text,transformers,1095616,166,0.15,HuggingFace Live Hub API
+383,Qwen/Qwen3-VL-2B-Instruct,Community/Independent,image-text-to-text,transformers,1094639,518,0.47,HuggingFace Live Hub API
+384,nlpaueb/legal-bert-base-uncased,Community/Independent,fill-mask,transformers,1094333,335,0.31,HuggingFace Live Hub API
+385,zai-org/GLM-4.7-Flash,Community/Independent,text-generation,transformers,1092889,1900,1.74,HuggingFace Live Hub API
+386,gigant/romanian-wav2vec2,Community/Independent,automatic-speech-recognition,transformers,1090657,21,0.02,HuggingFace Live Hub API
+387,google/embeddinggemma-300m,Community/Independent,sentence-similarity,sentence-transformers,1085038,2117,1.95,HuggingFace Live Hub API
+388,thinkingmachines/Inkling-Small,Community/Independent,image-text-to-text,transformers,1081331,457,0.42,HuggingFace Live Hub API
+389,jonatasgrosman/wav2vec2-large-xlsr-53-finnish,Community/Independent,automatic-speech-recognition,transformers,1078210,7,0.01,HuggingFace Live Hub API
+390,MiniMaxAI/MiniMax-M2.5,Community/Independent,text-generation,transformers,1078125,1531,1.42,HuggingFace Live Hub API
+391,HoppouAI/Breeze-TTS-2.cpp,Community/Independent,text-to-speech,gguf,1077775,45,0.04,HuggingFace Live Hub API
+392,Comfy-Org/MiniMax-Music-3,Community/Independent,General AI,diffusion-single-file,1077395,260,0.24,HuggingFace Live Hub API
+393,ukisai/Swift-1.5-Qwen3.8-Flash-Next-GSQ-RCO-GGUF,Community/Independent,image-text-to-text,gguf,1064824,260,0.24,HuggingFace Live Hub API
+394,PrunaAI/P-H3-Image-Comfy,Community/Independent,text-to-image,diffusion-single-file,1064331,352,0.33,HuggingFace Live Hub API
+395,sentence-transformers/paraphrase-MiniLM-L3-v2,Community/Independent,sentence-similarity,sentence-transformers,1063986,31,0.03,HuggingFace Live Hub API
+396,OpenGVLab/InternVL2-1B,Community/Independent,image-text-to-text,transformers,1063736,85,0.08,HuggingFace Live Hub API
+397,lmstudio-community/Qwen3.8-27B-GGUF,Community/Independent,General AI,Open-Source,1062593,102,0.1,HuggingFace Live Hub API
+398,intfloat/e5-base-v2,Community/Independent,sentence-similarity,sentence-transformers,1062051,173,0.16,HuggingFace Live Hub API
+399,facebook/bart-large-cnn,Community/Independent,summarization,transformers,1059193,1652,1.56,HuggingFace Live Hub API
+400,Khalsuu/filipino-wav2vec2-l-xls-r-300m-official,Community/Independent,automatic-speech-recognition,transformers,1054700,15,0.01,HuggingFace Live Hub API
+401,nvidia/Qwen2.5-VL-7B-Instruct-NVFP4,Community/Independent,text-generation,Model Optimizer,1048627,28,0.03,HuggingFace Live Hub API
+402,fidel1234/Krea2_Asian_Character,Community/Independent,General AI,diffusers,1046686,50,0.05,HuggingFace Live Hub API
+403,DavidAU/Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,1046431,305,0.29,HuggingFace Live Hub API
+404,sshleifer/tiny-gpt2,Community/Independent,text-generation,transformers,1046077,38,0.04,HuggingFace Live Hub API
+405,tencent/Hy3,Community/Independent,text-generation,transformers,1044765,991,0.95,HuggingFace Live Hub API
+406,VoVanPhuc/sup-SimCSE-VietNamese-phobert-base,Community/Independent,sentence-similarity,transformers,1043859,30,0.03,HuggingFace Live Hub API
+407,openai-community/gpt2-large,Community/Independent,text-generation,transformers,1043366,373,0.36,HuggingFace Live Hub API
+408,Qwen/Qwen2-VL-2B-Instruct,Community/Independent,image-text-to-text,transformers,1041021,529,0.51,HuggingFace Live Hub API
+409,nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16,Community/Independent,text-generation,transformers,1033648,384,0.37,HuggingFace Live Hub API
+410,openbmb/MiniCPM5-2B,Community/Independent,text-generation,transformers,1032832,1851,1.79,HuggingFace Live Hub API
+411,microsoft/deberta-v3-large,Community/Independent,fill-mask,transformers,1029108,312,0.3,HuggingFace Live Hub API
+412,cagliostrolab/animagine-xl-4.0,Community/Independent,text-to-image,diffusers,1027930,582,0.57,HuggingFace Live Hub API
+413,bkai-foundation-models/vietnamese-bi-encoder,Community/Independent,sentence-similarity,generic,1023914,85,0.08,HuggingFace Live Hub API
+414,cyankiwi/Qwen3.8-27B-AWQ-INT4,Community/Independent,image-text-to-text,transformers,1023186,135,0.13,HuggingFace Live Hub API
+415,dslim/bert-base-NER,Community/Independent,token-classification,transformers,1021235,750,0.73,HuggingFace Live Hub API
+416,google/gemma-3-4b-it,Community/Independent,image-text-to-text,transformers,1020173,1658,1.63,HuggingFace Live Hub API
+417,mradermacher/Simplicio-27B-GGUF,Community/Independent,General AI,transformers,1016826,3,0.0,HuggingFace Live Hub API
+418,jinaai/jina-embeddings-v2-small-en,Community/Independent,feature-extraction,sentence-transformers,1015062,159,0.16,HuggingFace Live Hub API
+419,sentence-transformers/LaBSE,Community/Independent,sentence-similarity,sentence-transformers,1014700,352,0.35,HuggingFace Live Hub API
+420,prism-ml/Ternary-Bonsai-27B-mlx-2bit,Community/Independent,text-generation,mlx,1014225,223,0.22,HuggingFace Live Hub API
+421,DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF,Community/Independent,text-generation,Open-Source,1013548,61,0.06,HuggingFace Live Hub API
+422,stable-diffusion-v1-5/stable-diffusion-v1-5,Community/Independent,text-to-image,diffusers,1012982,1365,1.35,HuggingFace Live Hub API
+423,jinaai/jina-embeddings-v5-omni-small,Community/Independent,feature-extraction,transformers,1012046,178,0.18,HuggingFace Live Hub API
+424,unsloth/Qwen-Image-Edit-2511-GGUF,Community/Independent,image-to-image,Open-Source,1009441,653,0.65,HuggingFace Live Hub API
+425,prism-ml/Bonsai-27B-mlx-1bit,Community/Independent,text-generation,mlx,1005305,292,0.29,HuggingFace Live Hub API
+426,livekit/turn-detector,Community/Independent,text-classification,transformers,1004654,169,0.17,HuggingFace Live Hub API
+427,kingabzpro/wav2vec2-large-xls-r-300m-Urdu,Community/Independent,automatic-speech-recognition,transformers,1001882,24,0.02,HuggingFace Live Hub API
+428,nomic-ai/nomic-embed-text-v1,Community/Independent,sentence-similarity,sentence-transformers,1000096,598,0.6,HuggingFace Live Hub API
+429,mesolitica/wav2vec2-xls-r-300m-mixed,Community/Independent,automatic-speech-recognition,transformers,999864,8,0.01,HuggingFace Live Hub API
+430,nguyenvulebinh/wav2vec2-base-vi-vlsp2020,Community/Independent,automatic-speech-recognition,transformers,998510,14,0.01,HuggingFace Live Hub API
+431,ggml-org/Qwen3.8-27B-GGUF,Community/Independent,image-text-to-text,Open-Source,998408,157,0.16,HuggingFace Live Hub API
+432,ZhengPeng7/BiRefNet,Community/Independent,image-segmentation,birefnet,998005,675,0.68,HuggingFace Live Hub API
+433,nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16,Community/Independent,text-generation,transformers,995986,273,0.27,HuggingFace Live Hub API
+434,PrimeIntellect/Qwen3-0.6B,Community/Independent,text-generation,transformers,993543,1,0.0,HuggingFace Live Hub API
+435,peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTP,Community/Independent,image-text-to-text,gguf,991882,383,0.39,HuggingFace Live Hub API
+436,anuragshas/wav2vec2-large-xlsr-53-telugu,Community/Independent,automatic-speech-recognition,transformers,988222,12,0.01,HuggingFace Live Hub API
+437,openbmb/VoxCPM2,Community/Independent,text-to-speech,voxcpm,981958,1785,1.82,HuggingFace Live Hub API
+438,RadixArk/Qwen3.8-27B-NVFP4,Community/Independent,image-text-to-text,Model Optimizer,979445,126,0.13,HuggingFace Live Hub API
+439,Efficient-Large-Model/Open-H3-Regenerate-2K,Community/Independent,video-to-video,minimax-h3,972807,248,0.25,HuggingFace Live Hub API
+440,bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF,Community/Independent,image-text-to-text,Open-Source,971782,198,0.2,HuggingFace Live Hub API
+441,unslothai/1,Community/Independent,feature-extraction,transformers,970430,1,0.0,HuggingFace Live Hub API
+442,Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8,Community/Independent,text-generation,transformers,968338,244,0.25,HuggingFace Live Hub API
+443,kindlingai/glm-5.3-exlr8-k2-k3-k4,Community/Independent,text-generation,trellis,960761,29,0.03,HuggingFace Live Hub API
+444,Xenova/bge-small-en-v1.5,Community/Independent,feature-extraction,transformers.js,960316,20,0.02,HuggingFace Live Hub API
+445,TinyLlama/TinyLlama-1.1B-Chat-v1.0,Community/Independent,text-generation,transformers,957334,1912,2.0,HuggingFace Live Hub API
+446,microsoft/llmlingua-2-bert-base-multilingual-cased-meetingbank,Community/Independent,token-classification,transformers,956248,66,0.07,HuggingFace Live Hub API
+447,Abiray/MiniMax-H3-Pruned-GGUF,Community/Independent,image-text-to-video,Open-Source,954756,92,0.1,HuggingFace Live Hub API
+448,Kijai/WanVideo_comfy_fp8_scaled,Community/Independent,General AI,diffusion-single-file,953027,759,0.8,HuggingFace Live Hub API
+449,classla/wav2vec2-xls-r-parlaspeech-hr,Community/Independent,automatic-speech-recognition,transformers,948054,6,0.01,HuggingFace Live Hub API
+450,laion/clap-htsat-unfused,Community/Independent,feature-extraction,transformers,947772,96,0.1,HuggingFace Live Hub API
+451,alefiury/wav2vec2-large-xlsr-53-gender-recognition-librispeech,Community/Independent,audio-classification,transformers,947455,48,0.05,HuggingFace Live Hub API
+452,Comfy-Org/Flux-2-Dev,Community/Independent,text-to-image,diffusion-single-file,943395,373,0.4,HuggingFace Live Hub API
+453,Xenova/whisper-tiny.en,Community/Independent,automatic-speech-recognition,transformers.js,942082,33,0.04,HuggingFace Live Hub API
+454,Qwen/Qwen2.5-32B-Instruct-AWQ,Community/Independent,text-generation,transformers,940664,112,0.12,HuggingFace Live Hub API
+455,facebook/nllb-200-distilled-600M,Community/Independent,translation,transformers,939930,1010,1.07,HuggingFace Live Hub API
+456,unsloth/Qwen-Image-2.1-FP8,Community/Independent,text-to-image,diffusers,932910,51,0.05,HuggingFace Live Hub API
+457,imvladikon/wav2vec2-xls-r-300m-hebrew,Community/Independent,automatic-speech-recognition,transformers,927842,11,0.01,HuggingFace Live Hub API
+458,Comfy-Org/Wan-Animate-2,Community/Independent,General AI,diffusion-single-file,926970,64,0.07,HuggingFace Live Hub API
+459,unsloth/Z-Image-Turbo-GGUF,Community/Independent,text-to-image,ggml,925704,301,0.33,HuggingFace Live Hub API
+460,agentionai/Qwen3.8-27B-AP-GGUF,Community/Independent,image-text-to-text,gguf,920976,103,0.11,HuggingFace Live Hub API
+461,nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16,Community/Independent,text-generation,transformers,916254,439,0.48,HuggingFace Live Hub API
+462,intfloat/e5-base,Community/Independent,sentence-similarity,sentence-transformers,916072,36,0.04,HuggingFace Live Hub API
+463,nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2,Community/Independent,image-text-to-text,Open-Source,915697,560,0.61,HuggingFace Live Hub API
+464,Qwen/Qwen2.5-Coder-32B-Instruct-AWQ,Community/Independent,text-generation,transformers,915145,50,0.05,HuggingFace Live Hub API
+465,Qdrant/bm25,Community/Independent,sentence-similarity,transformers,910621,54,0.06,HuggingFace Live Hub API
+466,Qwen/Qwen3.5-0.8B-Base,Community/Independent,image-text-to-text,transformers,907659,139,0.15,HuggingFace Live Hub API
+467,PaddlePaddle/PP-DocLayoutV3_safetensors,Community/Independent,object-detection,transformers,906773,59,0.07,HuggingFace Live Hub API
+468,mpoyraz/wav2vec2-xls-r-300m-cv7-turkish,Community/Independent,automatic-speech-recognition,transformers,905358,19,0.02,HuggingFace Live Hub API
+469,ibm-granite/granite-timeseries-tspulse-r1,Community/Independent,General AI,granite-tsfm,904691,48,0.05,HuggingFace Live Hub API
+470,nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4,Community/Independent,text-generation,transformers,903800,496,0.55,HuggingFace Live Hub API
+471,lxyuan/distilbert-base-multilingual-cased-sentiments-student,Community/Independent,text-classification,transformers,903516,317,0.35,HuggingFace Live Hub API
+472,datalab-to/surya-ocr-2,Community/Independent,image-text-to-text,transformers,901433,145,0.16,HuggingFace Live Hub API
+473,Lykon/dreamshaper-7,Community/Independent,text-to-image,diffusers,901138,74,0.08,HuggingFace Live Hub API
+474,RedHatAI/Qwen3.6-35B-A3B-NVFP4,Community/Independent,image-text-to-text,transformers,898201,197,0.22,HuggingFace Live Hub API
+475,amunchet/rorshark-vit-base,Community/Independent,image-classification,transformers,896730,11,0.01,HuggingFace Live Hub API
+476,Comfy-Org/ltx-2,Community/Independent,General AI,diffusion-single-file,895244,170,0.19,HuggingFace Live Hub API
+477,mradermacher/Qwen3.8-27B-Fable-5-Coding-Distilled-GGUF,Community/Independent,General AI,transformers,894772,34,0.04,HuggingFace Live Hub API
+478,bottlecapai/ThinkingCap-Qwen3.8-27B-GGUF,Community/Independent,image-text-to-text,gguf,894401,98,0.11,HuggingFace Live Hub API
+479,google/siglip-base-patch16-224,Community/Independent,zero-shot-image-classification,transformers,893457,105,0.12,HuggingFace Live Hub API
+480,apple/DFN5B-CLIP-ViT-H-14-378,Community/Independent,General AI,open_clip,891881,115,0.13,HuggingFace Live Hub API
+481,ornith-ai/Ornith-1.5-122B-GGUF,Community/Independent,text-generation,transformers,891082,57,0.06,HuggingFace Live Hub API
+482,Jackrong/Qwopus3.8-27B-Flash-V2-GGUF,Community/Independent,image-text-to-text,transformers,889938,75,0.08,HuggingFace Live Hub API
+483,facebook/esmfold_v1,Community/Independent,General AI,transformers,886392,64,0.07,HuggingFace Live Hub API
+484,lightx2v/Qwen-Image-Edit-2511-Lightning,Community/Independent,image-to-image,diffusers,879813,547,0.62,HuggingFace Live Hub API
+485,mradermacher/Cyber-Ornith-1.5-9B-OBLITERATED-i1-GGUF,Community/Independent,General AI,transformers,876768,68,0.08,HuggingFace Live Hub API
+486,peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF,Community/Independent,text-generation,gguf,875614,164,0.19,HuggingFace Live Hub API
+487,Alibaba-NLP/gte-multilingual-base,Community/Independent,sentence-similarity,sentence-transformers,872762,391,0.45,HuggingFace Live Hub API
+488,sentence-transformers/distiluse-base-multilingual-cased-v2,Community/Independent,sentence-similarity,sentence-transformers,871573,220,0.25,HuggingFace Live Hub API
+489,mradermacher/AdaVaR-3B-GGUF,Community/Independent,General AI,transformers,867029,3,0.0,HuggingFace Live Hub API
+490,almanach/camembert-base,Community/Independent,fill-mask,transformers,866102,117,0.14,HuggingFace Live Hub API
+491,Lightricks/LTX-2.3,Community/Independent,image-to-video,diffusers,862819,2027,2.35,HuggingFace Live Hub API
+492,Qwen/Qwen2.5-VL-3B-Instruct-AWQ,Community/Independent,image-text-to-text,transformers,859027,79,0.09,HuggingFace Live Hub API
+493,NbAiLab/nb-wav2vec2-1b-bokmaal-v2,Community/Independent,automatic-speech-recognition,transformers,857984,0,0.0,HuggingFace Live Hub API
+494,google/vit-base-patch16-224-in21k,Community/Independent,image-feature-extraction,transformers,856905,433,0.51,HuggingFace Live Hub API
+495,meta-llama/Llama-3.2-3B-Instruct,Community/Independent,text-generation,transformers,853555,3009,3.53,HuggingFace Live Hub API
+496,Comfy-Org/Pixal3D,Community/Independent,General AI,diffusion-single-file,851947,133,0.16,HuggingFace Live Hub API
+497,jonatasgrosman/wav2vec2-large-xlsr-53-persian,Community/Independent,automatic-speech-recognition,transformers,851166,40,0.05,HuggingFace Live Hub API
+498,allenai/longformer-base-4096,Community/Independent,General AI,transformers,850531,230,0.27,HuggingFace Live Hub API
+499,theainerd/Wav2Vec2-large-xlsr-hindi,Community/Independent,automatic-speech-recognition,transformers,848383,26,0.03,HuggingFace Live Hub API
+500,mlx-community/parakeet-tdt-0.6b-v2,Community/Independent,automatic-speech-recognition,mlx,846581,48,0.06,HuggingFace Live Hub API
+501,Comfy-Org/ACE-Step-1.5,Community/Independent,text-to-audio,diffusion-single-file,837862,187,0.22,HuggingFace Live Hub API
+502,lightonai/LightOnOCR-2-1B,Community/Independent,image-text-to-text,transformers,837730,851,1.02,HuggingFace Live Hub API
+503,Qwen/Qwen3-30B-A3B-Instruct-2507,Community/Independent,text-generation,transformers,836591,857,1.02,HuggingFace Live Hub API
+504,onnx-community/Kokoro-82M-v1.0-ONNX,Community/Independent,text-to-speech,transformers.js,836421,290,0.35,HuggingFace Live Hub API
+505,farbodtavakkoli/OTel-2.0-LLM-31B-IT,Community/Independent,text-generation,transformers,835500,32,0.04,HuggingFace Live Hub API
+506,Qwen/Qwen3-8B-GGUF,Community/Independent,text-generation,Open-Source,834989,385,0.46,HuggingFace Live Hub API
+507,MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7,Community/Independent,zero-shot-classification,transformers,834902,411,0.49,HuggingFace Live Hub API
+508,Qwen/Qwen3-TTS-12Hz-0.6B-Base,Community/Independent,text-to-speech,Open-Source,832497,372,0.45,HuggingFace Live Hub API
+509,mradermacher/Qwen3.5-9B-Kimi-k3-Distilled-GGUF,Community/Independent,General AI,transformers,831621,21,0.03,HuggingFace Live Hub API
+510,NeoQuasar/Kronos-base,Community/Independent,time-series-forecasting,Open-Source,829783,325,0.39,HuggingFace Live Hub API
+511,HuggingFaceTB/SmolLM2-135M-Instruct,Community/Independent,text-generation,transformers,829445,474,0.57,HuggingFace Live Hub API
+512,unsloth/Qwen3-4B-Instruct-2507-GGUF,Community/Independent,General AI,transformers,825800,226,0.27,HuggingFace Live Hub API
+513,Comfy-Org/SeedVR2,Community/Independent,General AI,diffusion-single-file,823296,157,0.19,HuggingFace Live Hub API
+514,shibing624/text2vec-base-chinese,Community/Independent,sentence-similarity,sentence-transformers,820380,814,0.99,HuggingFace Live Hub API
+515,ornith-ai/Ornith-1.0-9B,Community/Independent,text-generation,transformers,818873,569,0.69,HuggingFace Live Hub API
+516,AiAngelGallery/ComfyPod-Models,Community/Independent,General AI,minimax-h3,818805,9,0.01,HuggingFace Live Hub API
+517,unslothai/repeat,Community/Independent,feature-extraction,transformers,818286,0,0.0,HuggingFace Live Hub API
+518,huihui-ai/Huihui-Qwen3.8-Flash-Next-abliterated-v2-GGUF,Community/Independent,image-text-to-text,transformers,817223,237,0.29,HuggingFace Live Hub API
+519,Yehor/w2v-xls-r-uk,Community/Independent,automatic-speech-recognition,transformers,816195,13,0.02,HuggingFace Live Hub API
+520,Infomaniak-AI/vllm-translategemma-4b-it,Community/Independent,image-text-to-text,transformers,813637,16,0.02,HuggingFace Live Hub API
+521,antirez/deepseek-v4.1-flash-gguf,Community/Independent,General AI,Open-Source,813408,94,0.12,HuggingFace Live Hub API
+522,OsaurusAI/Diplodocus-preview-GGUF,Community/Independent,text-generation,gguf,813157,1,0.0,HuggingFace Live Hub API
+523,Qwen/Qwen3.5-122B-A10B,Community/Independent,image-text-to-text,transformers,810081,653,0.81,HuggingFace Live Hub API
+524,prithivida/parrot_paraphraser_on_T5,Community/Independent,General AI,transformers,809467,171,0.21,HuggingFace Live Hub API
+525,unsloth/Qwen3.6-35B-A3B-NVFP4,Community/Independent,image-text-to-text,transformers,808773,123,0.15,HuggingFace Live Hub API
+526,sentence-transformers-testing/stsb-bert-tiny-safetensors,Community/Independent,sentence-similarity,sentence-transformers,808189,14,0.02,HuggingFace Live Hub API
+527,gaunernst/gemma-3-27b-it-int4-awq,Community/Independent,image-text-to-text,transformers,803922,50,0.06,HuggingFace Live Hub API
+528,handy-computer/whisper-large-v3-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,798060,3,0.0,HuggingFace Live Hub API
+529,hugging-quants/gemma-2-9b-it-AWQ-INT4,Community/Independent,text-generation,transformers,796829,10,0.01,HuggingFace Live Hub API
+530,prajjwal1/bert-tiny,Community/Independent,General AI,transformers,796631,160,0.2,HuggingFace Live Hub API
+531,cross-encoder/ms-marco-MiniLM-L12-v2,Community/Independent,text-ranking,sentence-transformers,793734,123,0.15,HuggingFace Live Hub API
+532,orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF,Community/Independent,image-text-to-text,gguf,793421,1408,1.77,HuggingFace Live Hub API
+533,moonshotai/Kimi-K3,Community/Independent,image-text-to-text,transformers,790518,11984,15.16,HuggingFace Live Hub API
+534,zai-org/GLM-5.1,Community/Independent,text-generation,transformers,789840,1851,2.34,HuggingFace Live Hub API
+535,numz/SeedVR2_comfyUI,Community/Independent,video-to-video,diffusers,786838,330,0.42,HuggingFace Live Hub API
+536,Qwen/Qwen2.5-Math-PRM-7B,Community/Independent,text-classification,transformers,786122,98,0.12,HuggingFace Live Hub API
+537,mradermacher/B1-9B-GGUF,Community/Independent,General AI,transformers,784529,0,0.0,HuggingFace Live Hub API
+538,Qwen/Qwen2.5-Coder-7B-Instruct-AWQ,Community/Independent,text-generation,transformers,781565,37,0.05,HuggingFace Live Hub API
+539,Harveenchadha/vakyansh-wav2vec2-tamil-tam-250,Community/Independent,automatic-speech-recognition,transformers,781351,13,0.02,HuggingFace Live Hub API
+540,saattrupdan/wav2vec2-xls-r-300m-ftspeech,Community/Independent,automatic-speech-recognition,transformers,780642,4,0.01,HuggingFace Live Hub API
+541,ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF,Community/Independent,image-text-to-text,gguf,779220,615,0.79,HuggingFace Live Hub API
+542,unsloth/GLM-5.3-Flash-GGUF,Community/Independent,text-generation,Open-Source,778113,528,0.68,HuggingFace Live Hub API
+543,laion/CLIP-ViT-B-16-laion2B-s34B-b88K,Community/Independent,zero-shot-image-classification,open_clip,775880,45,0.06,HuggingFace Live Hub API
+544,Tongyi-MAI/Z-Image-Turbo,Community/Independent,text-to-image,diffusers,773857,5596,7.23,HuggingFace Live Hub API
+545,lmstudio-community/Qwen3.5-9B-MLX-4bit,Community/Independent,image-text-to-text,transformers,771741,8,0.01,HuggingFace Live Hub API
+546,facebook/fasttext-language-identification,Community/Independent,text-classification,fasttext,767809,291,0.38,HuggingFace Live Hub API
+547,google/siglip-so400m-patch14-384,Community/Independent,zero-shot-image-classification,transformers,767634,705,0.92,HuggingFace Live Hub API
+548,poolside/Laguna-XS.2,Community/Independent,text-generation,transformers,764375,320,0.42,HuggingFace Live Hub API
+549,neuralmind/bert-large-portuguese-cased,Community/Independent,fill-mask,transformers,760777,75,0.1,HuggingFace Live Hub API
+550,AtomicChat/LFM2.5-24B-A2B-Uncensored-GGUF,Community/Independent,text-generation,gguf,758605,83,0.11,HuggingFace Live Hub API
+551,hustvl/yolos-small,Community/Independent,object-detection,transformers,757613,101,0.13,HuggingFace Live Hub API
+552,distil-whisper/distil-large-v3,Community/Independent,automatic-speech-recognition,transformers,754155,386,0.51,HuggingFace Live Hub API
+553,city96/umt5-xxl-encoder-gguf,Community/Independent,General AI,gguf,750291,194,0.26,HuggingFace Live Hub API
+554,Comfy-Org/Hunyuan-Video-1.5,Community/Independent,General AI,diffusion-single-file,750268,106,0.14,HuggingFace Live Hub API
+555,Qwen/Qwen3.5-397B-A17B,Community/Independent,image-text-to-text,transformers,750145,1579,2.1,HuggingFace Live Hub API
+556,Musixmatch/umberto-commoncrawl-cased-v1,Community/Independent,fill-mask,transformers,749419,19,0.03,HuggingFace Live Hub API
+557,Qwen/Qwen3-4B-GGUF,Community/Independent,text-generation,Open-Source,748739,224,0.3,HuggingFace Live Hub API
+558,facebook/wav2vec2-xlsr-53-espeak-cv-ft,Community/Independent,automatic-speech-recognition,transformers,747909,61,0.08,HuggingFace Live Hub API
+559,Lightricks/LTX-2.3-fp8,Community/Independent,image-to-video,diffusers,746227,150,0.2,HuggingFace Live Hub API
+560,Qwen/Qwen2.5-7B-Instruct-GGUF,Community/Independent,text-generation,Open-Source,745665,214,0.29,HuggingFace Live Hub API
+561,jinaai/jina-reranker-v3,Community/Independent,text-ranking,transformers,745359,156,0.21,HuggingFace Live Hub API
+562,openbmb/MiniCPM-V-4.7-35B-A3B,Community/Independent,image-text-to-text,transformers,742912,1118,1.5,HuggingFace Live Hub API
+563,Qwen/Qwen2.5-32B-Instruct,Community/Independent,text-generation,transformers,739194,377,0.51,HuggingFace Live Hub API
+564,QuantStack/Wan2.2-T2V-A14B-GGUF,Community/Independent,text-to-video,gguf,738972,313,0.42,HuggingFace Live Hub API
+565,black-forest-labs/FLUX.2-klein-base-4B,Community/Independent,image-to-image,diffusers,738959,195,0.26,HuggingFace Live Hub API
+566,NbAiLab/nb-wav2vec2-1b-nynorsk,Community/Independent,automatic-speech-recognition,transformers,733255,4,0.01,HuggingFace Live Hub API
+567,Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice,Community/Independent,text-to-speech,Open-Source,731603,212,0.29,HuggingFace Live Hub API
+568,FastVideo/FastH3-Omni-Comfy,Community/Independent,General AI,diffusion-single-file,730692,201,0.28,HuggingFace Live Hub API
+569,HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced,Community/Independent,image-text-to-text,Open-Source,730165,566,0.78,HuggingFace Live Hub API
+570,intfloat/e5-large-v2,Community/Independent,sentence-similarity,sentence-transformers,728691,294,0.4,HuggingFace Live Hub API
+571,poolside/Laguna-M.1,Community/Independent,text-generation,vllm,728375,150,0.21,HuggingFace Live Hub API
+572,google/siglip2-so400m-patch14-384,Community/Independent,zero-shot-image-classification,transformers,726556,120,0.17,HuggingFace Live Hub API
+573,amazon/chronos-t5-base,Community/Independent,time-series-forecasting,chronos-forecasting,725811,45,0.06,HuggingFace Live Hub API
+574,Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata,Community/Independent,text-generation,strata,725703,65,0.09,HuggingFace Live Hub API
+575,DeepBeepMeep/LTX-2,Community/Independent,General AI,diffusion-single-file,725585,28,0.04,HuggingFace Live Hub API
+576,timm/wide_resnet50_2.racm_in1k,Community/Independent,image-classification,timm,723328,2,0.0,HuggingFace Live Hub API
+577,NeuML/pubmedbert-base-embeddings,Community/Independent,sentence-similarity,sentence-transformers,722090,207,0.29,HuggingFace Live Hub API
+578,lmstudio-community/Qwen3.5-9B-MLX-8bit,Community/Independent,image-text-to-text,transformers,718551,4,0.01,HuggingFace Live Hub API
+579,microsoft/VibeVoice-ASR,Community/Independent,automatic-speech-recognition,transformers,716208,1329,1.86,HuggingFace Live Hub API
+580,Comfy-Org/Flux-2-Klein-9B,Community/Independent,text-to-image,diffusion-single-file,715202,259,0.36,HuggingFace Live Hub API
+581,XHToken/Spark-X2.6-4B-GGUF,Community/Independent,text-generation,transformers,714628,310,0.43,HuggingFace Live Hub API
+582,Comfy-Org/SCAIL-2,Community/Independent,General AI,diffusion-single-file,712940,142,0.2,HuggingFace Live Hub API
+583,unsloth/Ornith-1.5-122B-GGUF,Community/Independent,text-generation,Open-Source,712272,101,0.14,HuggingFace Live Hub API
+584,nanonets/Nanonets-OCR2-3B,Community/Independent,image-text-to-text,transformers,709857,517,0.73,HuggingFace Live Hub API
+585,Synaptics/yolo,Community/Independent,General AI,Open-Source,709573,0,0.0,HuggingFace Live Hub API
+586,lmstudio-community/Qwen3.5-9B-GGUF,Community/Independent,General AI,Open-Source,709182,79,0.11,HuggingFace Live Hub API
+587,comodoro/wav2vec2-xls-r-300m-sk-cv8,Community/Independent,automatic-speech-recognition,transformers,708351,4,0.01,HuggingFace Live Hub API
+588,unsloth/gemma-4-E4B-it-GGUF,Community/Independent,image-text-to-text,Open-Source,708348,687,0.97,HuggingFace Live Hub API
+589,Xenova/ms-marco-MiniLM-L-6-v2,Community/Independent,text-classification,transformers.js,707537,10,0.01,HuggingFace Live Hub API
+590,DeepBeepMeep/Wan2.2,Community/Independent,General AI,diffusers,706595,26,0.04,HuggingFace Live Hub API
+591,pyannote/embedding,Community/Independent,General AI,pyannote-audio,704182,265,0.38,HuggingFace Live Hub API
+592,google/flan-t5-base,Community/Independent,General AI,transformers,703738,1120,1.59,HuggingFace Live Hub API
+593,circulus/canvers-ko2en-v1,Community/Independent,General AI,transformers,702409,0,0.0,HuggingFace Live Hub API
+594,circulus/canvers-en2ko-v1,Community/Independent,General AI,transformers,702302,0,0.0,HuggingFace Live Hub API
+595,dbmdz/bert-large-cased-finetuned-conll03-english,Community/Independent,token-classification,transformers,702098,98,0.14,HuggingFace Live Hub API
+596,albert/albert-base-v2,Community/Independent,fill-mask,transformers,698995,156,0.22,HuggingFace Live Hub API
+597,facebook/dinov3-vitl16-pretrain-lvd1689m,Community/Independent,image-feature-extraction,transformers,698339,2172,3.11,HuggingFace Live Hub API
+598,ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF,Community/Independent,text-generation,gguf,698253,215,0.31,HuggingFace Live Hub API
+599,unsloth/Qwen3.6-35B-A3B-NVFP4-Fast,Community/Independent,image-text-to-text,transformers,695020,134,0.19,HuggingFace Live Hub API
+600,timm/resnet34.a1_in1k,Community/Independent,image-classification,timm,693244,2,0.0,HuggingFace Live Hub API
+601,cl-nagoya/ruri-v3-310m,Community/Independent,sentence-similarity,Open-Source,690602,89,0.13,HuggingFace Live Hub API
+602,AdamCodd/vit-base-nsfw-detector,Community/Independent,image-classification,transformers.js,690211,91,0.13,HuggingFace Live Hub API
+603,ai-forever/FRIDA,Community/Independent,feature-extraction,sentence-transformers,688270,159,0.23,HuggingFace Live Hub API
+604,audio-cpp/MiniMax-Music3-GGUF,Community/Independent,text-to-audio,audio.cpp,685975,47,0.07,HuggingFace Live Hub API
+605,RedHatAI/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-FP8,Community/Independent,text-generation,transformers,685937,14,0.02,HuggingFace Live Hub API
+606,unsloth/Muse-Glimmer-30B-GGUF,Community/Independent,image-text-to-text,transformers,685294,593,0.87,HuggingFace Live Hub API
+607,timm/repvgg_a0.rvgg_in1k,Community/Independent,image-classification,timm,684148,1,0.0,HuggingFace Live Hub API
+608,google/mobilebert-uncased,Community/Independent,General AI,transformers,683299,81,0.12,HuggingFace Live Hub API
+609,softcatala/wav2vec2-large-xlsr-catala,Community/Independent,automatic-speech-recognition,transformers,681139,4,0.01,HuggingFace Live Hub API
+610,allenai/specter2_base,Community/Independent,feature-extraction,transformers,679663,57,0.08,HuggingFace Live Hub API
+611,nomic-ai/nomic-embed-text-v2-moe,Community/Independent,sentence-similarity,sentence-transformers,679283,515,0.76,HuggingFace Live Hub API
+612,unsloth/gemma-4-E2B-it-GGUF,Community/Independent,image-text-to-text,Open-Source,676362,356,0.53,HuggingFace Live Hub API
+613,scragnog/YuE2-GGUF,Community/Independent,General AI,Open-Source,675017,5,0.01,HuggingFace Live Hub API
+614,Laxhar/noobai-XL-1.1,Community/Independent,text-to-image,diffusers,674704,203,0.3,HuggingFace Live Hub API
+615,timm/vit_base_patch14_reg4_dinov2.lvd142m,Community/Independent,image-feature-extraction,timm,673501,15,0.02,HuggingFace Live Hub API
+616,RedHatAI/gemma-4-26B-A4B-it-NVFP4,Community/Independent,image-text-to-text,transformers,667728,46,0.07,HuggingFace Live Hub API
+617,QuantTrio/gemma-4-31B-it-AWQ,Community/Independent,image-text-to-text,transformers,665541,14,0.02,HuggingFace Live Hub API
+618,autotrust/AutoTrust-Decider-Mini-9B,Community/Independent,text-classification,transformers,664205,166,0.25,HuggingFace Live Hub API
+619,handy-computer/whisper-large-v3-turbo-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,661389,6,0.01,HuggingFace Live Hub API
+620,arijitx/wav2vec2-xls-r-300m-bengali,Community/Independent,automatic-speech-recognition,transformers,661123,14,0.02,HuggingFace Live Hub API
+621,cyankiwi/Qwen3.5-27B-AWQ-4bit,Community/Independent,image-text-to-text,transformers,660182,41,0.06,HuggingFace Live Hub API
+622,OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview-HF,Community/Independent,image-text-to-text,transformers,660177,10,0.02,HuggingFace Live Hub API
+623,timm/efficientnet_b0.ra_in1k,Community/Independent,image-classification,timm,658443,14,0.02,HuggingFace Live Hub API
+624,cis-lmu/glotlid,Community/Independent,text-classification,fasttext,657351,108,0.16,HuggingFace Live Hub API
+625,llava-hf/llava-1.5-7b-hf,Community/Independent,image-text-to-text,transformers,656540,383,0.58,HuggingFace Live Hub API
+626,onnx-community/embeddinggemma-300m-ONNX,Community/Independent,sentence-similarity,transformers.js,656186,75,0.11,HuggingFace Live Hub API
+627,Babelscape/wikineural-multilingual-ner,Community/Independent,token-classification,transformers,655345,170,0.26,HuggingFace Live Hub API
+628,InternScience/Sage-A1.5-Q4_K_M-GGUF,Community/Independent,text-generation,gguf,654537,84,0.13,HuggingFace Live Hub API
+629,facebook/hubert-large-ls960-ft,Community/Independent,automatic-speech-recognition,transformers,650168,84,0.13,HuggingFace Live Hub API
+630,sentence-transformers/multi-qa-MiniLM-L6-cos-v1,Community/Independent,sentence-similarity,sentence-transformers,647832,138,0.21,HuggingFace Live Hub API
+631,google/diffusiongemma-26B-A4B-it,Community/Independent,image-text-to-text,transformers,647091,1326,2.05,HuggingFace Live Hub API
+632,facebook/VGGT-1B,Community/Independent,image-to-3d,Open-Source,646177,158,0.24,HuggingFace Live Hub API
+633,hubertsiuzdak/snac_24khz,Community/Independent,General AI,transformers,645849,64,0.1,HuggingFace Live Hub API
+634,google/gemma-4-12B-it-qat-w4a16-ct,Community/Independent,any-to-any,transformers,645513,75,0.12,HuggingFace Live Hub API
+635,AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF,Community/Independent,text-to-image,gguf,645281,808,1.25,HuggingFace Live Hub API
+636,Marqo/nsfw-image-detection-384,Community/Independent,image-classification,timm,642993,62,0.1,HuggingFace Live Hub API
+637,tencent/HunyuanOCR,Community/Independent,image-text-to-text,transformers,642291,846,1.32,HuggingFace Live Hub API
+638,timm/vit_base_patch14_dinov2.lvd142m,Community/Independent,image-feature-extraction,timm,638971,10,0.02,HuggingFace Live Hub API
+639,Helsinki-NLP/opus-mt-en-ru,Community/Independent,translation,transformers,637695,101,0.16,HuggingFace Live Hub API
+640,microsoft/layoutlmv3-base,Community/Independent,General AI,transformers,634547,525,0.83,HuggingFace Live Hub API
+641,FastVideo/FastVideo-FastH3-Comfy,Community/Independent,General AI,diffusion-single-file,633633,170,0.27,HuggingFace Live Hub API
+642,Lorbus/Qwen3.6-27B-int4-AutoRound,Community/Independent,image-text-to-text,transformers,632753,131,0.21,HuggingFace Live Hub API
+643,meta-llama/Llama-3.2-1B,Community/Independent,text-generation,transformers,632512,2775,4.39,HuggingFace Live Hub API
+644,Helsinki-NLP/opus-mt-zh-en,Community/Independent,translation,transformers,632408,567,0.9,HuggingFace Live Hub API
+645,Qwen/Qwen2.5-14B-Instruct,Community/Independent,text-generation,transformers,626217,384,0.61,HuggingFace Live Hub API
+646,HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive,Community/Independent,General AI,Open-Source,623622,2511,4.03,HuggingFace Live Hub API
+647,cyankiwi/MiniCPM-SALA-AWQ-8bit,Community/Independent,text-generation,transformers,623456,1,0.0,HuggingFace Live Hub API
+648,openai/whisper-tiny,Community/Independent,automatic-speech-recognition,transformers,622544,472,0.76,HuggingFace Live Hub API
+649,microsoft/deberta-v3-small,Community/Independent,fill-mask,transformers,620254,91,0.15,HuggingFace Live Hub API
+650,turintech/gemma-4-E2B-it-Artemis-GGUF,Community/Independent,image-text-to-text,gguf,618628,14,0.02,HuggingFace Live Hub API
+651,Qwen/Qwen3-VL-4B-Instruct-GGUF,Community/Independent,image-text-to-text,transformers,617410,83,0.13,HuggingFace Live Hub API
+652,poolside/Laguna-XS-2.1,Community/Independent,text-generation,transformers,615848,268,0.44,HuggingFace Live Hub API
+653,facebook/dinov2-large,Community/Independent,image-feature-extraction,transformers,614178,128,0.21,HuggingFace Live Hub API
+654,peft-internal-testing/tiny-clip-text-2,Community/Independent,General AI,transformers,613420,2,0.0,HuggingFace Live Hub API
+655,unsloth/gpt-oss-20b-GGUF,Community/Independent,text-generation,transformers,613408,909,1.48,HuggingFace Live Hub API
+656,lpiccinelli/unidepth-v2-vitl14,Community/Independent,General AI,UniDepth,613181,51,0.08,HuggingFace Live Hub API
+657,rhasspy/faster-whisper-base-int8,Community/Independent,General AI,transformers,612448,3,0.0,HuggingFace Live Hub API
+658,unsloth/Qwen-Image-2.1,Community/Independent,text-to-image,diffusers,612192,12,0.02,HuggingFace Live Hub API
+659,Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign,Community/Independent,text-to-speech,qwen-tts,611731,481,0.79,HuggingFace Live Hub API
+660,mixedbread-ai/mxbai-rerank-xsmall-v1,Community/Independent,text-ranking,transformers,608670,59,0.1,HuggingFace Live Hub API
+661,sentence-transformers/all-roberta-large-v1,Community/Independent,sentence-similarity,sentence-transformers,607946,66,0.11,HuggingFace Live Hub API
+662,mudler/Laguna-XS-2.1-APEX-GGUF,Community/Independent,General AI,Open-Source,606485,31,0.05,HuggingFace Live Hub API
+663,Qwen/Qwen3-1.7B-Base,Community/Independent,text-generation,transformers,603304,101,0.17,HuggingFace Live Hub API
+664,EleutherAI/pythia-70m-deduped,Community/Independent,text-generation,transformers,602393,39,0.06,HuggingFace Live Hub API
+665,unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF,Community/Independent,text-generation,Open-Source,602117,191,0.32,HuggingFace Live Hub API
+666,AxelPCG/splade-pt-br,Community/Independent,General AI,Open-Source,600358,1,0.0,HuggingFace Live Hub API
+667,bartowski/Qwen2.5-32B-Instruct-GGUF,Community/Independent,text-generation,Open-Source,600338,93,0.15,HuggingFace Live Hub API
+668,cardiffnlp/twitter-xlm-roberta-base-sentiment,Community/Independent,text-classification,transformers,598162,281,0.47,HuggingFace Live Hub API
+669,amazon/chronos-t5-tiny,Community/Independent,time-series-forecasting,chronos-forecasting,597818,121,0.2,HuggingFace Live Hub API
+670,facebook/wav2vec2-large-960h-lv60-self,Community/Independent,automatic-speech-recognition,transformers,596063,172,0.29,HuggingFace Live Hub API
+671,soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf,Community/Independent,text-generation,gguf,595941,22,0.04,HuggingFace Live Hub API
+672,RunDiffusion/Juggernaut-XL-v9,Community/Independent,text-to-image,diffusers,595710,523,0.88,HuggingFace Live Hub API
+673,bigscience/bloomz-560m,Community/Independent,text-generation,transformers,594663,149,0.25,HuggingFace Live Hub API
+674,Aratako/MioCodec-25Hz-44.1kHz-v2,Community/Independent,audio-to-audio,Open-Source,594632,15,0.03,HuggingFace Live Hub API
+675,amazon/chronos-bolt-base,Community/Independent,time-series-forecasting,chronos-forecasting,594504,97,0.16,HuggingFace Live Hub API
+676,HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive,Community/Independent,image-text-to-text,Open-Source,593097,1582,2.67,HuggingFace Live Hub API
+677,Comfy-Org/stable-diffusion-1.5,Community/Independent,General AI,diffusion-single-file,590374,206,0.35,HuggingFace Live Hub API
+678,minishlab/potion-base-8M,Community/Independent,General AI,model2vec,589218,85,0.14,HuggingFace Live Hub API
+679,melcheikh/gemma-4-31B-it-qat-NVFP4-Blackwell,Community/Independent,text-generation,Open-Source,588029,4,0.01,HuggingFace Live Hub API
+680,rinna/japanese-gpt-neox-small,Community/Independent,text-generation,transformers,587290,15,0.03,HuggingFace Live Hub API
+681,handy-computer/whisper-medium-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,587138,0,0.0,HuggingFace Live Hub API
+682,timm/convnext_tiny.in12k_ft_in1k,Community/Independent,image-classification,timm,586368,6,0.01,HuggingFace Live Hub API
+683,Winnougan/Cobijada_Minimax-H3_Hybrid_Pruned_ComfyUI,Community/Independent,image-to-video,minimax-h3,586006,111,0.19,HuggingFace Live Hub API
+684,autogluon/chronos-bolt-mini,Community/Independent,time-series-forecasting,Open-Source,585711,8,0.01,HuggingFace Live Hub API
+685,Qwen/Qwen3-8B-Base,Community/Independent,text-generation,transformers,582913,152,0.26,HuggingFace Live Hub API
+686,Qwen/Qwen3-VL-Embedding-8B,Community/Independent,sentence-similarity,sentence-transformers,582675,517,0.89,HuggingFace Live Hub API
+687,ornith-ai/Ornith-1.5-35B-A3B-DFlash,Community/Independent,General AI,Open-Source,581528,36,0.06,HuggingFace Live Hub API
+688,Accio-Lab/occamy-1.0-GGUF,Community/Independent,image-text-to-text,gguf,581378,43,0.07,HuggingFace Live Hub API
+689,Qdrant/paraphrase-multilingual-MiniLM-L12-v2-onnx-Q,Community/Independent,sentence-similarity,transformers,580899,9,0.02,HuggingFace Live Hub API
+690,microsoft/wavlm-base-plus-sv,Community/Independent,General AI,transformers,580693,67,0.12,HuggingFace Live Hub API
+691,IDEA-Research/grounding-dino-tiny,Community/Independent,zero-shot-object-detection,transformers,580581,127,0.22,HuggingFace Live Hub API
+692,Freepik/nsfw_image_detector,Community/Independent,image-classification,transformers,576510,69,0.12,HuggingFace Live Hub API
+693,Qwen/Qwen3-0.6B-Base,Community/Independent,text-generation,transformers,572103,226,0.4,HuggingFace Live Hub API
+694,answerdotai/ModernBERT-large,Community/Independent,fill-mask,transformers,572085,504,0.88,HuggingFace Live Hub API
+695,stabilityai/sdxl-turbo,Community/Independent,text-to-image,diffusers,571101,2671,4.68,HuggingFace Live Hub API
+696,InternScience/Sage-A1.5-Q8_0-GGUF,Community/Independent,text-generation,gguf,570315,17,0.03,HuggingFace Live Hub API
+697,ampixa/sanoTTS,Community/Independent,text-to-speech,sanotts,569640,77,0.14,HuggingFace Live Hub API
+698,Qwen/Qwen-Image-Edit-2509,Community/Independent,image-to-image,diffusers,569139,1268,2.23,HuggingFace Live Hub API
+699,unsloth/Qwen3-30B-A3B-Instruct-2507-GGUF,Community/Independent,General AI,transformers,568934,328,0.58,HuggingFace Live Hub API
+700,empero-ai/Qwen3.8-4B-Distill-GGUF,Community/Independent,text-generation,gguf,568865,208,0.37,HuggingFace Live Hub API
+701,unsloth/Qwen3-4B-GGUF,Community/Independent,text-generation,transformers,568513,253,0.45,HuggingFace Live Hub API
+702,mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF,Community/Independent,General AI,transformers,563800,12,0.02,HuggingFace Live Hub API
+703,kredor/punctuate-all,Community/Independent,token-classification,transformers,563348,31,0.06,HuggingFace Live Hub API
+704,eddiegulay/wav2vec2-large-xlsr-mvc-swahili,Community/Independent,automatic-speech-recognition,transformers,561943,3,0.01,HuggingFace Live Hub API
+705,SmilingWolf/wd-swinv2-tagger-v3,Community/Independent,General AI,timm,561632,99,0.18,HuggingFace Live Hub API
+706,togatogah/jinen-v1-small.gguf,Community/Independent,General AI,Open-Source,560844,1,0.0,HuggingFace Live Hub API
+707,redis/langcache-embed-v1,Community/Independent,sentence-similarity,sentence-transformers,560008,16,0.03,HuggingFace Live Hub API
+708,nlptown/bert-base-multilingual-uncased-sentiment,Community/Independent,text-classification,transformers,559887,497,0.89,HuggingFace Live Hub API
+709,Kijai/LTX2.3_comfy,Community/Independent,General AI,diffusion-single-file,559875,639,1.14,HuggingFace Live Hub API
+710,philbert440/Qwen3.8-27B-Uncensored-Cyber-GGUF,Community/Independent,image-text-to-text,Open-Source,556837,79,0.14,HuggingFace Live Hub API
+711,Qwen/Qwen3.5-4B-Base,Community/Independent,image-text-to-text,transformers,555631,129,0.23,HuggingFace Live Hub API
+712,Qwen/Qwen2.5-1.5B-Instruct-GGUF,Community/Independent,text-generation,Open-Source,554497,202,0.36,HuggingFace Live Hub API
+713,pfnet/plamo-embedding-1b,Community/Independent,sentence-similarity,transformers,553773,49,0.09,HuggingFace Live Hub API
+714,trl-internal-testing/tiny-Qwen3MoeForCausalLM,Community/Independent,text-generation,transformers,552794,1,0.0,HuggingFace Live Hub API
+715,lmstudio-community/gemma-4-E4B-it-GGUF,Community/Independent,General AI,Open-Source,551269,72,0.13,HuggingFace Live Hub API
+716,CompendiumLabs/bge-large-en-v1.5-gguf,Community/Independent,General AI,Open-Source,550473,10,0.02,HuggingFace Live Hub API
+717,black-forest-labs/FLUX.2-klein-4b-fp8,Community/Independent,image-to-image,diffusion-single-file,550305,100,0.18,HuggingFace Live Hub API
+718,Qwen/Qwen2.5-VL-32B-Instruct,Community/Independent,image-text-to-text,transformers,549959,510,0.93,HuggingFace Live Hub API
+719,nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4,Community/Independent,text-generation,transformers,548644,190,0.35,HuggingFace Live Hub API
+720,turintech/Qwen3.5-0.8B-Artemis-GGUF,Community/Independent,image-text-to-text,gguf,546830,18,0.03,HuggingFace Live Hub API
+721,mixedbread-ai/deepset-mxbai-embed-de-large-v1,Community/Independent,feature-extraction,sentence-transformers,544763,61,0.11,HuggingFace Live Hub API
+722,Qwen/Qwen2.5-Coder-32B-Instruct,Community/Independent,text-generation,transformers,544361,2211,4.06,HuggingFace Live Hub API
+723,Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-IQ2_XXS-GGUF,Community/Independent,text-generation,Open-Source,544161,111,0.2,HuggingFace Live Hub API
+724,OBLITERATUS/Qwen3.8-27B-OBLITERATED,Community/Independent,text-generation,mlx,543708,1667,3.07,HuggingFace Live Hub API
+725,infinitejoy/wav2vec2-large-xls-r-300m-welsh,Community/Independent,automatic-speech-recognition,transformers,543161,1,0.0,HuggingFace Live Hub API
+726,ornith-ai/Ornith-1.5-9B,Community/Independent,text-generation,transformers,542632,416,0.77,HuggingFace Live Hub API
+727,Snowflake/snowflake-arctic-embed-xs,Community/Independent,sentence-similarity,sentence-transformers,542138,43,0.08,HuggingFace Live Hub API
+728,laion/CLIP-ViT-H-14-laion2B-s32B-b79K,Community/Independent,zero-shot-image-classification,open_clip,539638,492,0.91,HuggingFace Live Hub API
+729,mradermacher/Qwen3-VL-8B-Instruct-abliterated-GGUF,Community/Independent,General AI,transformers,539091,25,0.05,HuggingFace Live Hub API
+730,pyannote/segmentation,Community/Independent,voice-activity-detection,pyannote-audio,538237,717,1.33,HuggingFace Live Hub API
+731,CompendiumLabs/bge-small-en-v1.5-gguf,Community/Independent,General AI,Open-Source,538093,8,0.01,HuggingFace Live Hub API
+732,empero-ai/Qwen3.8-9B-Distill-GGUF,Community/Independent,text-generation,gguf,537822,356,0.66,HuggingFace Live Hub API
+733,aubmindlab/bert-base-arabertv02,Community/Independent,fill-mask,transformers,536260,52,0.1,HuggingFace Live Hub API
+734,ml-resources/flux-3-image-klein-comfy,Community/Independent,image-to-image,diffusion-single-file,533808,13,0.02,HuggingFace Live Hub API
+735,Qwen/Qwen2-VL-7B-Instruct,Community/Independent,image-text-to-text,transformers,533437,1297,2.43,HuggingFace Live Hub API
+736,google/fnet-base,Community/Independent,General AI,transformers,532464,24,0.05,HuggingFace Live Hub API
+737,sentence-transformers/msmarco-bert-base-dot-v5,Community/Independent,sentence-similarity,sentence-transformers,531999,21,0.04,HuggingFace Live Hub API
+738,YituTech/conv-bert-base,Community/Independent,feature-extraction,transformers,531871,10,0.02,HuggingFace Live Hub API
+739,cross-encoder/ms-marco-TinyBERT-L2-v2,Community/Independent,text-ranking,sentence-transformers,530671,44,0.08,HuggingFace Live Hub API
+740,nvidia/Cosmos-Reason2-2B,Community/Independent,image-text-to-text,cosmos,530456,396,0.75,HuggingFace Live Hub API
+741,Qwen/Qwen2.5-1.5B,Community/Independent,text-generation,transformers,529908,249,0.47,HuggingFace Live Hub API
+742,distilbert/distilbert-base-multilingual-cased,Community/Independent,fill-mask,transformers,529649,251,0.47,HuggingFace Live Hub API
+743,nvidia/parakeet-tdt-0.6b-v3,Community/Independent,automatic-speech-recognition,transformers,528820,1273,2.41,HuggingFace Live Hub API
+744,Qwen/Qwen2.5-7B,Community/Independent,text-generation,transformers,528709,343,0.65,HuggingFace Live Hub API
+745,baidu/Unlimited-OCR-2,Community/Independent,image-text-to-text,transformers,525885,687,1.31,HuggingFace Live Hub API
+746,unsloth/LTX-2.3-GGUF,Community/Independent,image-to-video,ggml,525877,591,1.12,HuggingFace Live Hub API
+747,Qwen/Qwen3-ASR-0.6B-hf,Community/Independent,automatic-speech-recognition,transformers,523935,96,0.18,HuggingFace Live Hub API
+748,FINAL-Bench/POCKET-Darwin-180B-GGUF,Community/Independent,text-generation,gguf,523910,71,0.14,HuggingFace Live Hub API
+749,nomic-ai/nomic-embed-text-v1.5-GGUF,Community/Independent,sentence-similarity,Open-Source,522653,142,0.27,HuggingFace Live Hub API
+750,facebook/esm2_t6_8M_UR50D,Community/Independent,fill-mask,transformers,521282,52,0.1,HuggingFace Live Hub API
+751,yiyanghkust/finbert-tone,Community/Independent,text-classification,transformers,520909,233,0.45,HuggingFace Live Hub API
+752,nvidia/nemotron-3.5-asr-streaming-0.6b,Community/Independent,automatic-speech-recognition,nemo,520893,1275,2.45,HuggingFace Live Hub API
+753,Xenova/whisper-tiny,Community/Independent,automatic-speech-recognition,transformers.js,520163,19,0.04,HuggingFace Live Hub API
+754,NeoQuasar/Kronos-mini,Community/Independent,time-series-forecasting,Open-Source,519114,42,0.08,HuggingFace Live Hub API
+755,zed-industries/zeta,Community/Independent,General AI,Open-Source,519015,423,0.82,HuggingFace Live Hub API
+756,google/embeddinggemma-2,Community/Independent,feature-extraction,transformers,517987,3357,6.48,HuggingFace Live Hub API
+757,ConwayResearch/Underdog-Saluki-27B-1.0,Community/Independent,text-generation,gguf,516446,716,1.39,HuggingFace Live Hub API
+758,gvs/wav2vec2-large-xlsr-malayalam,Community/Independent,automatic-speech-recognition,transformers,513671,7,0.01,HuggingFace Live Hub API
+759,ncbi/MedCPT-Cross-Encoder,Community/Independent,text-classification,transformers,513375,33,0.06,HuggingFace Live Hub API
+760,CompendiumLabs/bge-base-en-v1.5-gguf,Community/Independent,General AI,Open-Source,512954,18,0.04,HuggingFace Live Hub API
+761,Salesforce/blip-vqa-base,Community/Independent,visual-question-answering,transformers,512612,196,0.38,HuggingFace Live Hub API
+762,trl-internal-testing/tiny-Qwen2_5_VLForConditionalGeneration,Community/Independent,image-text-to-text,transformers,512599,0,0.0,HuggingFace Live Hub API
+763,onnx-community/embeddinggemma-2-ONNX,Community/Independent,feature-extraction,transformers.js,512172,37,0.07,HuggingFace Live Hub API
+764,poolside/Laguna-S-2.1,Community/Independent,text-generation,transformers,511510,1079,2.11,HuggingFace Live Hub API
+765,thenlper/gte-large,Community/Independent,sentence-similarity,sentence-transformers,510886,308,0.6,HuggingFace Live Hub API
+766,unsloth/Llama-3.2-3B-Instruct,Community/Independent,text-generation,transformers,510153,100,0.2,HuggingFace Live Hub API
+767,unsloth/Qwen3.5-2B-GGUF,Community/Independent,image-text-to-text,transformers,509933,177,0.35,HuggingFace Live Hub API
+768,autogluon/mitra-classifier,Community/Independent,tabular-classification,Open-Source,509339,44,0.09,HuggingFace Live Hub API
+769,empero-ai/Qwen3.8-2B-Distill-GGUF,Community/Independent,text-generation,gguf,509282,184,0.36,HuggingFace Live Hub API
+770,emrecan/bert-base-turkish-cased-mean-nli-stsb-tr,Community/Independent,sentence-similarity,sentence-transformers,509080,53,0.1,HuggingFace Live Hub API
+771,z-lab/Qwen3.8-27B-DFlash2-GGUF,Community/Independent,text-generation,llama.cpp,506737,162,0.32,HuggingFace Live Hub API
+772,ornith-ai/Ornith-1.5-122B-FP8,Community/Independent,text-generation,transformers,503103,13,0.03,HuggingFace Live Hub API
+773,facebook/sam-vit-base,Community/Independent,mask-generation,transformers,502407,179,0.36,HuggingFace Live Hub API
+774,raxcore-dev/Rax-4.5,Community/Independent,image-text-to-text,transformers,501928,5,0.01,HuggingFace Live Hub API
+775,microsoft/wavlm-base-plus,Community/Independent,feature-extraction,transformers,501075,51,0.1,HuggingFace Live Hub API
+776,DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,499423,58,0.12,HuggingFace Live Hub API
+777,LiquidAI/LFM2.5-Audio-1.5B-JP-GGUF,Community/Independent,audio-to-audio,llama.cpp,498769,37,0.07,HuggingFace Live Hub API
+778,zai-org/chatglm2-6b,Community/Independent,General AI,transformers,498649,2069,4.15,HuggingFace Live Hub API
+779,casperhansen/llama-3.3-70b-instruct-awq,Community/Independent,text-generation,transformers,495263,53,0.11,HuggingFace Live Hub API
+780,unsloth/FLUX.2-klein-4B-GGUF,Community/Independent,image-to-image,ggml,494551,241,0.49,HuggingFace Live Hub API
+781,HauhauCS/Gemma4-26B-A4B-QAT-Uncensored-HauhauCS-Balanced-MTP,Community/Independent,image-text-to-text,Open-Source,494058,368,0.74,HuggingFace Live Hub API
+782,ornith-ai/Ornith-1.5-397B-NVFP4,Community/Independent,text-generation,transformers,493889,24,0.05,HuggingFace Live Hub API
+783,jinaai/jina-bert-flash-implementation,Community/Independent,General AI,transformers,492574,7,0.01,HuggingFace Live Hub API
+784,ggml-org/models-moved,Community/Independent,General AI,Open-Source,492234,14,0.03,HuggingFace Live Hub API
+785,openbmb/MiniCPM5-2B-GGUF,Community/Independent,text-generation,llama.cpp,492034,393,0.8,HuggingFace Live Hub API
+786,ornith-ai/Ornith-1.5-35B-A3B-FP8,Community/Independent,text-generation,transformers,490408,35,0.07,HuggingFace Live Hub API
+787,llamafactory/tiny-random-Llama-3,Community/Independent,text-generation,transformers,490326,4,0.01,HuggingFace Live Hub API
+788,Qwen/Qwen3-ASR-0.6B,Community/Independent,automatic-speech-recognition,Open-Source,489464,400,0.82,HuggingFace Live Hub API
+789,ggml-org/gemma-3-1b-it-GGUF,Community/Independent,General AI,Open-Source,488866,59,0.12,HuggingFace Live Hub API
+790,unsloth/LFM2.5-24B-A2B-GGUF,Community/Independent,text-generation,transformers,488717,122,0.25,HuggingFace Live Hub API
+791,QuantStack/Wan2.2-TI2V-5B-GGUF,Community/Independent,text-to-video,gguf,488234,259,0.53,HuggingFace Live Hub API
+792,MilaNLProc/xlm-emo-t,Community/Independent,text-classification,transformers,487604,14,0.03,HuggingFace Live Hub API
+793,google/timesfm-3.0-pytorch,Community/Independent,time-series-forecasting,Open-Source,487572,1019,2.09,HuggingFace Live Hub API
+794,NeoQuasar/Kronos-Tokenizer-2k,Community/Independent,time-series-forecasting,torch,486808,16,0.03,HuggingFace Live Hub API
+795,Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4,Community/Independent,text-generation,transformers,485611,26,0.05,HuggingFace Live Hub API
+796,cointegrated/rubert-tiny2,Community/Independent,sentence-similarity,sentence-transformers,485242,184,0.38,HuggingFace Live Hub API
+797,unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF,Community/Independent,text-generation,transformers,484046,1221,2.52,HuggingFace Live Hub API
+798,unsloth/FLUX.2-klein-9B-GGUF,Community/Independent,image-to-image,ggml,483896,381,0.79,HuggingFace Live Hub API
+799,google/siglip2-so400m-patch16-256,Community/Independent,zero-shot-image-classification,transformers,482805,12,0.02,HuggingFace Live Hub API
+800,handy-computer/Voxtral-Mini-4B-Realtime-2602-gguf,Community/Independent,automatic-speech-recognition,transcribe.cpp,482592,11,0.02,HuggingFace Live Hub API
+801,nerualdreming/MOSS-Music-8B-Instruct-GGUF,Community/Independent,General AI,Open-Source,482478,0,0.0,HuggingFace Live Hub API
+802,black-forest-labs/FLUX.1-dev,Community/Independent,text-to-image,diffusers,482190,16141,33.47,HuggingFace Live Hub API
+803,yikuan8/Clinical-Longformer,Community/Independent,fill-mask,transformers,481231,69,0.14,HuggingFace Live Hub API
+804,gagan3012/wav2vec2-xlsr-nepali,Community/Independent,automatic-speech-recognition,transformers,480820,8,0.02,HuggingFace Live Hub API
+805,Qwen/Qwen3-VL-Embedding-2B,Community/Independent,sentence-similarity,sentence-transformers,480296,499,1.04,HuggingFace Live Hub API
+806,camenduru/dinov3-vitl16-pretrain-lvd1689m,Community/Independent,image-feature-extraction,transformers,479642,19,0.04,HuggingFace Live Hub API
+807,turintech/gemma-4-E4B-it-Artemis-GGUF,Community/Independent,image-text-to-text,gguf,479413,13,0.03,HuggingFace Live Hub API
+808,datalab-to/surya-ocr-2-gguf,Community/Independent,image-text-to-text,transformers,479143,24,0.05,HuggingFace Live Hub API
+809,Qwen/Qwen3-14B-FP8,Community/Independent,text-generation,transformers,478036,55,0.12,HuggingFace Live Hub API
+810,segment-any-text/sat-3l-sm,Community/Independent,token-classification,transformers,476738,14,0.03,HuggingFace Live Hub API
+811,protectai/deberta-v3-base-prompt-injection-v2,Community/Independent,text-classification,transformers,476298,129,0.27,HuggingFace Live Hub API
+812,timm/vit_small_patch14_reg4_dinov2.lvd142m,Community/Independent,image-feature-extraction,timm,474958,8,0.02,HuggingFace Live Hub API
+813,Synaptics/yolov26n_od,Community/Independent,General AI,torq,474342,0,0.0,HuggingFace Live Hub API
+814,unsloth/llama-3-8b-Instruct-bnb-4bit,Community/Independent,text-generation,transformers,472157,135,0.29,HuggingFace Live Hub API
+815,unsloth/bge-small-en-v1.5,Community/Independent,feature-extraction,sentence-transformers,468846,2,0.0,HuggingFace Live Hub API
+816,litert-community/gemma-4-E4B-it-litert-lm,Community/Independent,General AI,litert-lm,468395,250,0.53,HuggingFace Live Hub API
+817,unsloth/Qwen-Image-2512-GGUF,Community/Independent,text-to-image,Open-Source,467351,432,0.92,HuggingFace Live Hub API
+818,meta-llama/Llama-3.1-405B-FP8,Community/Independent,text-generation,transformers,467232,124,0.27,HuggingFace Live Hub API
+819,google/siglip2-base-patch16-256,Community/Independent,zero-shot-image-classification,transformers,466646,28,0.06,HuggingFace Live Hub API
+820,Xenova/multilingual-e5-small,Community/Independent,feature-extraction,transformers.js,465870,21,0.05,HuggingFace Live Hub API
+821,AtomicChat/Qwen3.8-Flash-Next-GGUF,Community/Independent,text-generation,gguf,464857,209,0.45,HuggingFace Live Hub API
+822,tohoku-nlp/bert-base-japanese-whole-word-masking,Community/Independent,fill-mask,transformers,459338,76,0.17,HuggingFace Live Hub API
+823,mesolitica/llama2-embedding-1b-8k,Community/Independent,feature-extraction,transformers,459181,3,0.01,HuggingFace Live Hub API
+824,openbmb/MiniCPM5-2B-DSpark,Community/Independent,text-generation,transformers,459126,57,0.12,HuggingFace Live Hub API
+825,Qwen/Qwen2.5-0.5B-Instruct-GGUF,Community/Independent,text-generation,Open-Source,458212,168,0.37,HuggingFace Live Hub API
+826,EleutherAI/gpt-neo-125m,Community/Independent,text-generation,transformers,457990,231,0.5,HuggingFace Live Hub API
+827,ibm-granite/granite-4.1-3b,Community/Independent,text-generation,transformers,456946,118,0.26,HuggingFace Live Hub API
+828,sentence-transformers/nli-mpnet-base-v2,Community/Independent,sentence-similarity,sentence-transformers,456063,15,0.03,HuggingFace Live Hub API
+829,Snowflake/snowflake-arctic-embed-l,Community/Independent,sentence-similarity,sentence-transformers,455828,114,0.25,HuggingFace Live Hub API
+830,meta-llama/Llama-3.1-8B,Community/Independent,text-generation,transformers,454993,2792,6.14,HuggingFace Live Hub API
+831,nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4,Community/Independent,text-generation,transformers,454903,454,1.0,HuggingFace Live Hub API
+832,google/gemma-4-E4B,Community/Independent,any-to-any,transformers,454599,510,1.12,HuggingFace Live Hub API
+833,PaddlePaddle/UVDoc,Community/Independent,image-to-text,PaddleOCR,453386,14,0.03,HuggingFace Live Hub API
+834,CompVis/stable-diffusion-v1-4,Community/Independent,text-to-image,diffusers,452901,7146,15.78,HuggingFace Live Hub API
+835,ukisai/Swift-Qwen3.8-27B-GGUF,Community/Independent,image-text-to-text,gguf,452185,478,1.06,HuggingFace Live Hub API
+836,pysentimiento/robertuito-sentiment-analysis,Community/Independent,text-classification,pysentimiento,451922,113,0.25,HuggingFace Live Hub API
+837,cyankiwi/gemma-4-31B-it-AWQ-4bit,Community/Independent,image-text-to-text,transformers,450426,55,0.12,HuggingFace Live Hub API
+838,google/medgemma-4b-it,Community/Independent,image-text-to-text,transformers,449110,1152,2.57,HuggingFace Live Hub API
+839,autotrust/AutoTrust-Decider-Pro-27B,Community/Independent,text-classification,transformers,449075,487,1.08,HuggingFace Live Hub API
+840,Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4,Community/Independent,text-generation,transformers,448559,52,0.12,HuggingFace Live Hub API
+841,Alibaba-NLP/gte-base-en-v1.5,Community/Independent,sentence-similarity,transformers,447644,72,0.16,HuggingFace Live Hub API
+842,Qwen/Qwen3-VL-30B-A3B-Instruct,Community/Independent,image-text-to-text,transformers,446653,628,1.41,HuggingFace Live Hub API
+843,onecxi/open-vakgyata,Community/Independent,audio-classification,transformers,446088,3,0.01,HuggingFace Live Hub API
+844,mudler/Ornith-1.5-35B-A3B-APEX-MTP-GGUF,Community/Independent,General AI,Open-Source,445065,106,0.24,HuggingFace Live Hub API
+845,OliviaRossi/Minimax-h3_Singularity-x-10Eros-Max_PRISM,Community/Independent,General AI,minimax-h3,444114,307,0.69,HuggingFace Live Hub API
+846,mistralai/Mistral-7B-v0.1,Community/Independent,text-generation,transformers,441952,4231,9.57,HuggingFace Live Hub API
+847,mradermacher/Huihui-Qwen3.5-9B-abliterated-GGUF,Community/Independent,General AI,transformers,441635,80,0.18,HuggingFace Live Hub API
+848,openbmb/MiniCPM-V-4.7-1B,Community/Independent,image-text-to-text,transformers,439161,418,0.95,HuggingFace Live Hub API
+849,black-forest-labs/FLUX.2-klein-4B,Community/Independent,image-to-image,diffusers,438415,1117,2.55,HuggingFace Live Hub API
+850,Qwen/Qwen3.5-122B-A10B-GPTQ-Int4,Community/Independent,image-text-to-text,transformers,437717,61,0.14,HuggingFace Live Hub API
+851,MiniMaxAI/MiniMax-H3-Image,Community/Independent,text-to-image,minimax-h3,437039,960,2.2,HuggingFace Live Hub API
+852,Qwen/Qwen3-ForcedAligner-0.6B,Community/Independent,automatic-speech-recognition,Open-Source,436435,178,0.41,HuggingFace Live Hub API
+853,FINAL-Bench/POCKET-35B-GGUF,Community/Independent,text-generation,llama.cpp,435640,91,0.21,HuggingFace Live Hub API
+854,Qwen/Qwen2.5-VL-32B-Instruct-AWQ,Community/Independent,image-text-to-text,transformers,435367,78,0.18,HuggingFace Live Hub API
+855,Qwen/Qwen3-4B-Base,Community/Independent,text-generation,transformers,435359,118,0.27,HuggingFace Live Hub API
+856,SC117/Swift-1.5-Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF,Community/Independent,image-text-to-text,gguf,433717,161,0.37,HuggingFace Live Hub API
+857,Jmica/Drama-3-GGUF,Community/Independent,text-to-speech,Open-Source,433603,42,0.1,HuggingFace Live Hub API
+858,RedHatAI/Qwen3.5-9B-FP8-dynamic,Community/Independent,image-text-to-text,transformers,433253,12,0.03,HuggingFace Live Hub API
+859,deepseek-ai/DeepSeek-R1-0528-Qwen3-8B,Community/Independent,text-generation,transformers,433173,1126,2.6,HuggingFace Live Hub API
+860,TimKond/S-PubMedBert-MedQuAD,Community/Independent,sentence-similarity,sentence-transformers,432545,8,0.02,HuggingFace Live Hub API
+861,Qwen/Qwen3-14B-GGUF,Community/Independent,text-generation,Open-Source,432168,159,0.37,HuggingFace Live Hub API
+862,unslothai/vram-16,Community/Independent,feature-extraction,transformers,431856,0,0.0,HuggingFace Live Hub API
+863,unsloth/Ornith-1.0-9B-GGUF,Community/Independent,text-generation,Open-Source,431519,65,0.15,HuggingFace Live Hub API
+864,nvidia/Cosmos-Embed1-224p,Community/Independent,General AI,cosmos,430327,22,0.05,HuggingFace Live Hub API
+865,unslothai/lambda,Community/Independent,feature-extraction,transformers,430269,0,0.0,HuggingFace Live Hub API
+866,unsloth/gemma-4-31B-it-GGUF,Community/Independent,image-text-to-text,Open-Source,429970,677,1.57,HuggingFace Live Hub API
+867,depth-anything/DA3METRIC-LARGE,Community/Independent,depth-estimation,depth-anything-3,428678,31,0.07,HuggingFace Live Hub API
+868,openbmb/MiniCPM-V-4.7-35B-A3B-gguf,Community/Independent,image-text-to-text,llama.cpp,428645,464,1.08,HuggingFace Live Hub API
+869,facebook/wav2vec2-lv-60-espeak-cv-ft,Community/Independent,automatic-speech-recognition,transformers,428357,78,0.18,HuggingFace Live Hub API
+870,abenzerps/Apodex-1.1-mini-GGUF,Community/Independent,text-generation,gguf,428095,20,0.05,HuggingFace Live Hub API
+871,RedHatAI/gemma-4-31B-it-FP8-block,Community/Independent,image-text-to-text,transformers,427430,52,0.12,HuggingFace Live Hub API
+872,dccuchile/bert-base-spanish-wwm-uncased,Community/Independent,fill-mask,transformers,427102,77,0.18,HuggingFace Live Hub API
+873,naver/efficient-splade-VI-BT-large-doc,Community/Independent,feature-extraction,sentence-transformers,425964,23,0.05,HuggingFace Live Hub API
+874,huihui-ai/Huihui-DeepSeek-V4-Flash-abliterated-ds4-GGUF,Community/Independent,General AI,transformers,425897,154,0.36,HuggingFace Live Hub API
+875,CompVis/stable-diffusion-safety-checker,Community/Independent,General AI,transformers,425865,142,0.33,HuggingFace Live Hub API
+876,lightx2v/Qwen-Image-2.1-Lightning,Community/Independent,text-to-image,diffusers,425194,115,0.27,HuggingFace Live Hub API
+877,rapid-mlx/Ling-3.0-tiny-MLX-4bit,Community/Independent,text-generation,mlx,425162,10,0.02,HuggingFace Live Hub API
+878,PaddlePaddle/PP-OCRv5_server_det,Community/Independent,image-to-text,PaddleOCR,424575,75,0.18,HuggingFace Live Hub API
+879,LiquidAI/LFM3-Omni-2B-GGUF,Community/Independent,any-to-any,gguf,423526,172,0.41,HuggingFace Live Hub API
+880,Qwen/Qwen3-Coder-Next,Community/Independent,text-generation,transformers,423187,1742,4.12,HuggingFace Live Hub API
+881,QuantStack/Wan2.2-Animate-14B-GGUF,Community/Independent,video-to-video,gguf,422283,237,0.56,HuggingFace Live Hub API
+882,McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp,Community/Independent,sentence-similarity,transformers,421695,23,0.05,HuggingFace Live Hub API
+883,Qwen/Qwen2.5-Coder-3B-Instruct,Community/Independent,text-generation,transformers,421266,157,0.37,HuggingFace Live Hub API
+884,trl-internal-testing/tiny-DiffusionGemmaForBlockDiffusion,Community/Independent,image-text-to-text,transformers,420826,2,0.0,HuggingFace Live Hub API
+885,sarahai/uzbek-stt-3,Community/Independent,automatic-speech-recognition,transformers,420614,5,0.01,HuggingFace Live Hub API
+886,deepdml/faster-whisper-large-v3-turbo-ct2,Community/Independent,automatic-speech-recognition,ctranslate2,420522,232,0.55,HuggingFace Live Hub API
+887,meta-llama/Meta-Llama-3-8B-Instruct,Community/Independent,text-generation,transformers,419784,5892,14.04,HuggingFace Live Hub API
+888,CIDAS/clipseg-rd64-refined,Community/Independent,image-segmentation,transformers,419441,142,0.34,HuggingFace Live Hub API
+889,TencentBAC/Conan-embedding-v1,Community/Independent,General AI,sentence-transformers,419126,166,0.4,HuggingFace Live Hub API
+890,deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,Community/Independent,text-generation,transformers,418932,1665,3.97,HuggingFace Live Hub API
+891,defog/sqlcoder-7b-2,Community/Independent,text-generation,transformers,418804,452,1.08,HuggingFace Live Hub API
+892,aismlv/wav2vec2-large-xlsr-kazakh,Community/Independent,automatic-speech-recognition,transformers,418729,21,0.05,HuggingFace Live Hub API
+893,facebook/nllb-200-distilled-1.3B,Community/Independent,translation,transformers,418635,195,0.47,HuggingFace Live Hub API
+894,Comfy-Org/Fibo-2.0,Community/Independent,image-to-image,diffusion-single-file,418633,234,0.56,HuggingFace Live Hub API
+895,google-bert/bert-base-german-cased,Community/Independent,fill-mask,transformers,418553,82,0.2,HuggingFace Live Hub API
+896,failspy/Meta-Llama-3-8B-Instruct-abliterated-v3,Community/Independent,text-generation,transformers,418197,70,0.17,HuggingFace Live Hub API
+897,madebyollin/sdxl-vae-fp16-fix,Community/Independent,General AI,diffusers,416978,648,1.55,HuggingFace Live Hub API
+898,realrebelai/MiniMax-H3_GGUFs,Community/Independent,General AI,Open-Source,416507,243,0.58,HuggingFace Live Hub API
+899,IlyaGusev/saiga_llama3_8b,Community/Independent,text-generation,transformers,415341,144,0.35,HuggingFace Live Hub API
+900,incoai/Qwen3.8-27B-DFlash2,Community/Independent,text-generation,transformers,414280,301,0.73,HuggingFace Live Hub API
+901,Comfy-Org/sam3.1,Community/Independent,General AI,diffusion-single-file,414051,126,0.3,HuggingFace Live Hub API
+902,autotrust/AutoTrust-Decider-Pro-35B-NVFP4,Community/Independent,text-classification,transformers,413912,172,0.42,HuggingFace Live Hub API
+903,stabilityai/sd-turbo,Community/Independent,text-to-image,diffusers,413273,471,1.14,HuggingFace Live Hub API
+904,JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF,Community/Independent,text-generation,gguf,412829,172,0.42,HuggingFace Live Hub API
+905,Marqo/marqo-fashionSigLIP,Community/Independent,zero-shot-image-classification,open_clip,411565,98,0.24,HuggingFace Live Hub API
+906,oliverguhr/fullstop-punctuation-multilang-large,Community/Independent,token-classification,transformers,411348,183,0.44,HuggingFace Live Hub API
+907,timm/convnext_base.fb_in22k_ft_in1k,Community/Independent,image-classification,timm,411203,4,0.01,HuggingFace Live Hub API
+908,Comfy-Org/stable-diffusion-3.5,Community/Independent,General AI,diffusion-single-file,411063,255,0.62,HuggingFace Live Hub API
+909,turintech/Qwen3.5-9B-Artemis-GGUF,Community/Independent,image-text-to-text,gguf,410952,8,0.02,HuggingFace Live Hub API
+910,turintech/Qwen3.5-4B-Artemis-GGUF,Community/Independent,image-text-to-text,gguf,410315,7,0.02,HuggingFace Live Hub API
+911,MATLOWAI/minimax-h3-fused-turbo-int8-convrot,Community/Independent,image-text-to-video,diffusion-single-file,410074,309,0.75,HuggingFace Live Hub API
+912,facebook/dino-vitb16,Community/Independent,image-feature-extraction,transformers,410028,115,0.28,HuggingFace Live Hub API
+913,depth-anything/DA3-LARGE,Community/Independent,depth-estimation,depth-anything-3,409143,16,0.04,HuggingFace Live Hub API
+914,timm/vit_base_patch16_224.dino,Community/Independent,image-feature-extraction,timm,408016,6,0.01,HuggingFace Live Hub API
+915,ornith-ai/Ornith-1.5-9B-DFlash,Community/Independent,General AI,Open-Source,407958,27,0.07,HuggingFace Live Hub API
+916,autogluon/mitra-regressor,Community/Independent,tabular-regression,Open-Source,407844,33,0.08,HuggingFace Live Hub API
+917,microsoft/swinv2-tiny-patch4-window16-256,Community/Independent,image-classification,transformers,407449,23,0.06,HuggingFace Live Hub API
+918,LiquidAI/LFM2.5-Audio-1.5B-GGUF,Community/Independent,General AI,Open-Source,406104,130,0.32,HuggingFace Live Hub API
+919,microsoft/Florence-2-large,Community/Independent,image-text-to-text,transformers,403113,1889,4.69,HuggingFace Live Hub API
+920,ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF,Community/Independent,image-text-to-text,gguf,402719,227,0.56,HuggingFace Live Hub API
+921,LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct,Community/Independent,text-generation,transformers,402209,160,0.4,HuggingFace Live Hub API
+922,Salesforce/blip-image-captioning-large,Community/Independent,image-to-text,transformers,401433,1508,3.76,HuggingFace Live Hub API
+923,facebook/dinov3-vitb16-pretrain-lvd1689m,Community/Independent,image-feature-extraction,transformers,401326,579,1.44,HuggingFace Live Hub API
+924,Systran/faster-whisper-tiny.en,Community/Independent,automatic-speech-recognition,ctranslate2,401225,10,0.02,HuggingFace Live Hub API
+925,Salesforce/blip2-opt-2.7b,Community/Independent,image-text-to-text,transformers,401119,448,1.12,HuggingFace Live Hub API
+926,cyankiwi/Ornith-1.0-9B-AWQ-INT4,Community/Independent,text-generation,transformers,401019,1,0.0,HuggingFace Live Hub API
+927,circulus/koelectra-polite-v1,Community/Independent,text-classification,transformers,400969,0,0.0,HuggingFace Live Hub API
+928,Qwen/Qwen2.5-Coder-1.5B-Instruct,Community/Independent,text-generation,transformers,400777,170,0.42,HuggingFace Live Hub API
+929,FenomAI/Qwen3.6-27B-AWQ-INT4,Community/Independent,image-text-to-text,transformers,400494,1,0.0,HuggingFace Live Hub API
+930,ByteDance/LatentSync-1.6,Community/Independent,General AI,torchgeo,399349,90,0.23,HuggingFace Live Hub API
+931,deepseek-ai/DeepSeek-V4.1-Flash-1017,Community/Independent,image-text-to-text,transformers,398161,5610,14.09,HuggingFace Live Hub API
+932,NexVeridian/Qwen3-Coder-Next-8bit,Community/Independent,text-generation,mlx,397720,3,0.01,HuggingFace Live Hub API
+933,BVRA/MegaDescriptor-T-224,Community/Independent,image-classification,wildlife-datasets,397522,2,0.01,HuggingFace Live Hub API
+934,timm/vit_base_patch16_224.augreg2_in21k_ft_in1k,Community/Independent,image-classification,timm,397160,14,0.04,HuggingFace Live Hub API
+935,jialinyyzz/humanizer,Community/Independent,text-generation,gguf,396455,2261,5.7,HuggingFace Live Hub API
+936,AtomicChat/MiniCPM-V-4.7-35B-A3B-Uncensored-GGUF,Community/Independent,image-text-to-text,gguf,395679,49,0.12,HuggingFace Live Hub API
+937,unsloth/Qwen-Image-2.1-Turbo-FP8,Community/Independent,text-to-image,diffusers,395117,24,0.06,HuggingFace Live Hub API
+938,FremyCompany/BioLORD-2023,Community/Independent,sentence-similarity,sentence-transformers,393212,58,0.15,HuggingFace Live Hub API
+939,google/gemma-3-12b-it,Community/Independent,image-text-to-text,transformers,393120,913,2.32,HuggingFace Live Hub API
+940,moonshotai/Kimi-K2.5,Community/Independent,image-text-to-text,transformers,392940,2902,7.39,HuggingFace Live Hub API
+941,ccore/Qwen3.5-4B-3D-Coder,Community/Independent,General AI,Open-Source,392582,1070,2.73,HuggingFace Live Hub API
+942,naver/splade-cocondenser-ensembledistil,Community/Independent,feature-extraction,sentence-transformers,391872,64,0.16,HuggingFace Live Hub API
+943,unsloth/mistral-7b-v0.3-bnb-4bit,Community/Independent,text-generation,transformers,391441,23,0.06,HuggingFace Live Hub API
+944,obi/deid_roberta_i2b2,Community/Independent,token-classification,transformers,391405,40,0.1,HuggingFace Live Hub API
+945,Bahushruth/Qwen3.6-35B-A3B-abliterated-v4,Community/Independent,text-generation,transformers,391190,14,0.04,HuggingFace Live Hub API
+946,Qwen/Qwen2-VL-7B-Instruct-AWQ,Community/Independent,image-text-to-text,transformers,391185,58,0.15,HuggingFace Live Hub API
+947,google/gemma-4-26B-A4B-it-assistant,Community/Independent,any-to-any,transformers,390058,201,0.52,HuggingFace Live Hub API
+948,bigscience/bloom-560m,Community/Independent,text-generation,transformers,389178,376,0.97,HuggingFace Live Hub API
+949,VideoRebirthAI/hyperflow-h3-flash,Community/Independent,image-text-to-video,minimax-h3,389065,249,0.64,HuggingFace Live Hub API
+950,briaai/RMBG-2.0,Community/Independent,image-segmentation,transformers,388859,1641,4.22,HuggingFace Live Hub API
+951,mattmdjaga/segformer_b2_clothes,Community/Independent,image-segmentation,transformers,388634,514,1.32,HuggingFace Live Hub API
+952,Qwen/Qwen2.5-Coder-1.5B,Community/Independent,text-generation,transformers,387894,136,0.35,HuggingFace Live Hub API
+953,amazon/chronos-t5-small,Community/Independent,time-series-forecasting,chronos-forecasting,387371,153,0.39,HuggingFace Live Hub API
+954,m3hrdadfi/wav2vec2-large-xlsr-lithuanian,Community/Independent,automatic-speech-recognition,transformers,387168,2,0.01,HuggingFace Live Hub API
+955,Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF,Community/Independent,text-generation,gguf,386884,63,0.16,HuggingFace Live Hub API
+956,chewwt/hpo_qwen8b_emulator,Community/Independent,General AI,Open-Source,386204,0,0.0,HuggingFace Live Hub API
+957,Helsinki-NLP/opus-mt-mul-en,Community/Independent,translation,transformers,386201,89,0.23,HuggingFace Live Hub API
+958,Wan-AI/Wan2.1-T2V-1.3B-Diffusers,Community/Independent,text-to-video,diffusers,384970,168,0.44,HuggingFace Live Hub API
+959,Snowflake/snowflake-arctic-embed-m,Community/Independent,sentence-similarity,sentence-transformers,384789,169,0.44,HuggingFace Live Hub API
+960,unsloth/Wan2.2-TI2V-5B-GGUF,Community/Independent,text-to-video,gguf,384596,27,0.07,HuggingFace Live Hub API
+961,kindlingai/glm-5.3-flash-exlr8-k2-k3-k4,Community/Independent,image-text-to-text,trellis,382508,4,0.01,HuggingFace Live Hub API
+962,tencent/Hy-MT2-1.8B-GGUF,Community/Independent,General AI,Open-Source,382300,257,0.67,HuggingFace Live Hub API
+963,Comfy-Org/TRELLIS.2,Community/Independent,General AI,diffusion-single-file,381885,111,0.29,HuggingFace Live Hub API
+964,anton-l/wav2vec2-large-xlsr-53-estonian,Community/Independent,automatic-speech-recognition,transformers,381302,1,0.0,HuggingFace Live Hub API
+965,Qwen/Qwen3-Omni-30B-A3B-Instruct,Community/Independent,any-to-any,transformers,380126,1056,2.78,HuggingFace Live Hub API
+966,ornith-ai/Ornith-1.5-397B-FP8,Community/Independent,text-generation,transformers,380062,10,0.03,HuggingFace Live Hub API
+967,emilyalsentzer/Bio_Discharge_Summary_BERT,Community/Independent,fill-mask,transformers,379877,38,0.1,HuggingFace Live Hub API
+968,j-hartmann/emotion-english-distilroberta-base,Community/Independent,text-classification,transformers,379559,505,1.33,HuggingFace Live Hub API
+969,unsloth/Z-Image-Turbo,Community/Independent,text-to-image,diffusers,379475,5,0.01,HuggingFace Live Hub API
+970,Qwen/Qwen2.5-Coder-7B-Instruct-GGUF,Community/Independent,text-generation,transformers,376750,654,1.74,HuggingFace Live Hub API
+971,Alennnndy/Qwen3.6-27B-AWQ-4bit,Community/Independent,text-generation,llmcompressor,375692,7,0.02,HuggingFace Live Hub API
+972,ByteDance/LatentSync-1.5,Community/Independent,General AI,torchgeo,374689,94,0.25,HuggingFace Live Hub API
+973,openai/whisper-medium,Community/Independent,automatic-speech-recognition,transformers,374237,318,0.85,HuggingFace Live Hub API
+974,unsloth/LTX-2.5-GGUF,Community/Independent,image-to-video,gguf,373837,42,0.11,HuggingFace Live Hub API
+975,laion/larger_clap_general,Community/Independent,feature-extraction,transformers,373778,56,0.15,HuggingFace Live Hub API
+976,DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,373023,343,0.92,HuggingFace Live Hub API
+977,ornith-ai/Ornith-1.5-35B-A3B-MLX,Community/Independent,text-generation,mlx,372904,66,0.18,HuggingFace Live Hub API
+978,unsloth/flux-3-image-klein-GGUF,Community/Independent,image-to-image,gguf,370597,52,0.14,HuggingFace Live Hub API
+979,lmstudio-community/gemma-4-26B-A4B-it-QAT-MLX-4bit,Community/Independent,image-text-to-text,transformers,369716,20,0.05,HuggingFace Live Hub API
+980,google/siglip2-so400m-patch16-naflex,Community/Independent,zero-shot-image-classification,transformers,369636,104,0.28,HuggingFace Live Hub API
+981,Systran/faster-whisper-medium.en,Community/Independent,automatic-speech-recognition,ctranslate2,369219,4,0.01,HuggingFace Live Hub API
+982,lmstudio-community/Qwen3.6-27B-MLX-4bit,Community/Independent,image-text-to-text,transformers,368695,17,0.05,HuggingFace Live Hub API
+983,Lykon/DreamShaper,Community/Independent,text-to-image,diffusers,367905,1033,2.81,HuggingFace Live Hub API
+984,ggml-org/gpt-oss-20b-GGUF,Community/Independent,text-generation,Open-Source,367806,200,0.54,HuggingFace Live Hub API
+985,boltzgen/boltzgen-1,Community/Independent,General AI,boltzgen,367749,22,0.06,HuggingFace Live Hub API
+986,neuralmind/bert-base-portuguese-cased,Community/Independent,fill-mask,transformers,367424,248,0.67,HuggingFace Live Hub API
+987,oliverguhr/german-sentiment-bert,Community/Independent,text-classification,transformers,365932,73,0.2,HuggingFace Live Hub API
+988,cross-encoder/nli-deberta-v3-small,Community/Independent,zero-shot-classification,sentence-transformers,365609,17,0.05,HuggingFace Live Hub API
+989,patrickjohncyh/fashion-clip,Community/Independent,zero-shot-image-classification,transformers,364816,304,0.83,HuggingFace Live Hub API
+990,BVRA/MegaDescriptor-B-224,Community/Independent,image-classification,wildlife-datasets,364283,0,0.0,HuggingFace Live Hub API
+991,mlx-community/whisper-large-v3-turbo,Community/Independent,automatic-speech-recognition,mlx,363856,122,0.34,HuggingFace Live Hub API
+992,ggml-org/gpt-oss-120b-GGUF,Community/Independent,text-generation,Open-Source,363802,85,0.23,HuggingFace Live Hub API
+993,jimmy31chen/RVN-Qwen3.8-Flash-Next-Abliterated-Uncensored-IQ3_S-Strata,Community/Independent,text-generation,Open-Source,363762,52,0.14,HuggingFace Live Hub API
+994,Comfy-Org/YuE2,Community/Independent,General AI,diffusion-single-file,363012,324,0.89,HuggingFace Live Hub API
+995,impira/layoutlm-document-qa,Community/Independent,document-question-answering,transformers,362691,1221,3.37,HuggingFace Live Hub API
+996,LBH-123-AI/Minimax_h3_latent_Upscaler,Community/Independent,General AI,minimax-h3,362259,493,1.36,HuggingFace Live Hub API
+997,timm/vit_base_patch8_224.augreg2_in21k_ft_in1k,Community/Independent,image-classification,timm,361869,4,0.01,HuggingFace Live Hub API
+998,DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF,Community/Independent,image-text-to-text,Open-Source,361095,2512,6.96,HuggingFace Live Hub API
+999,deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,Community/Independent,text-generation,transformers,359835,1674,4.65,HuggingFace Live Hub API
+1000,mistralai/Ministral-3-14B-Reasoning-2512,Community/Independent,General AI,vllm,359619,176,0.49,HuggingFace Live Hub API

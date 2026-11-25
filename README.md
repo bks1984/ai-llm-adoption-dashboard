@@ -11,7 +11,7 @@ Hugging Face Hub, with their downloads, community likes and an engagement score.
 ![Data](https://img.shields.io/badge/data-Apache%202.0-lightgrey)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-llm-adoption-dashboard.streamlit.app)
 
-**▶ Live demo: https://ai-llm-adoption-dashboard.streamlit.app** (running on the bundled synthetic sample until the Kaggle CSV is added)
+**▶ Live demo: https://ai-llm-adoption-dashboard.streamlit.app**
 
 ---
 
@@ -45,9 +45,9 @@ ai-llm-adoption-dashboard/
 │   ├── generate_sample_data.py # Schema-identical synthetic sample (offline demo)
 │   └── build_processed.py      # Write cleaned CSV + print headline findings
 ├── data/
-│   ├── raw/                    # ← put the Kaggle CSV here (git-ignored)
+│   ├── raw/                    # real Kaggle CSV (loaded by default)
 │   ├── processed/              # cleaned output (git-ignored)
-│   └── sample/                 # bundled synthetic sample (committed)
+│   └── sample/                 # synthetic fallback for offline use
 ├── notebooks/
 │   └── 01_exploratory_analysis.ipynb
 ├── tests/                      # pytest: loader, analysis, charts, app smoke tests
@@ -72,11 +72,33 @@ streamlit run app.py
 
 Then open http://localhost:8501.
 
-### Using the real Kaggle data
+### Key findings (real data, 1,000 models)
 
-The repo ships with a **synthetic sample** in `data/sample/`, so the dashboard runs right
-after cloning. While the sample is in use, the dashboard shows a warning banner. To load
-the real data, pick one option:
+| Question | Answer from the data |
+|---|---|
+| Which tasks dominate downloads? | **sentence-similarity** (16%) edges out **text-generation** (14%), even though text-generation has 3× as many models (200 vs 62). Embedding models are pulled in by retrieval pipelines at huge volume. |
+| Which framework leads? | **transformers** carries 43% of downloads across 516 models. **sentence-transformers** has 24% from only 75 models. GGUF has 59 models but a small share of downloads. |
+| Do the most downloaded models get the most likes? | Only **weakly** (Spearman ρ = 0.31). Likes grow more slowly than downloads (log-log slope ≈ 0.70), so the most downloaded "workhorse" models get few likes per download. |
+| How concentrated are downloads? | The top 10 models hold 25% of all downloads (Gini 0.63, *within* a list that already contains only the 1,000 most downloaded models). |
+| Who publishes the most models? | **Qwen** (104 models), then unsloth, google, Comfy-Org and facebook. 336 publishers in total. |
+
+### About the data
+
+The real Kaggle CSV is committed at `data/raw/global_ai_llm_adoption_2026.csv`, and the
+dashboard loads it by default. Data quirks the loader handles:
+
+- **`Developer_Org` is "Community/Independent" on every row.** When that column has only one
+  value, the loader takes the publisher from the repository id instead (`Qwen/Qwen3-8B` → `Qwen`).
+- **`Adoption_Engagement_Score` = likes per 1,000 downloads, rounded to 2 decimals.** We checked
+  this against all 1,000 rows.
+- **Every model has at least ~360K downloads.** The file is a snapshot of the most downloaded
+  models on the Hub, not a random sample, so the lower download tiers are empty.
+- `General AI` (task) and `Open-Source` (framework) are the source's catch-all labels for
+  untagged models.
+
+### Refreshing the data
+
+To pull a fresh copy (or if the committed CSV is removed), pick one option:
 
 1. **Kaggle API:** create a token at *kaggle.com → Settings → Create New Token*, save
    `kaggle.json` to `~/.kaggle/`, then run:
@@ -110,7 +132,7 @@ instead of underscores, numbers with thousands separators, and a missing
 
 ```bash
 pip install -r requirements-dev.txt
-pytest                       # 35 tests: loader, analysis, every chart, headless app run
+pytest                       # 37 tests: loader, analysis, every chart, headless app run
 ruff check .                 # lint
 python scripts/build_processed.py   # text report of headline findings
 ```
@@ -120,8 +142,7 @@ python scripts/build_processed.py   # text report of headline findings
 ## ☁️ Deploy
 
 The app deploys as-is to **[Streamlit Community Cloud](https://streamlit.io/cloud)**: push to
-GitHub, click *New app*, and select `app.py`. To deploy with the real data, commit the CSV to
-`data/raw/` (remove that line from `.gitignore`) or upload it at runtime.
+GitHub, click *New app*, and select `app.py`. It deploys with the committed real data.
 
 ## 📄 License & attribution
 
@@ -129,5 +150,6 @@ GitHub, click *New app*, and select `app.py`. To deploy with the real data, comm
 - Data: *Global AI & LLM Tools Adoption Dataset (2026)* by Muhammad Ahmad on Kaggle,
   licensed **Apache 2.0**. The dataset page says it was collected from the Hugging Face
   Hub API.
-- The bundled `data/sample/ai_llm_tools_sample.csv` is **synthetic** and is for demos only.
-  Its rows are marked `Data_Source = "Synthetic sample"`.
+- The real data is redistributed unchanged in `data/raw/` under Apache 2.0.
+- `data/sample/ai_llm_tools_sample.csv` is **synthetic**: an offline fallback used only when
+  `data/raw/` is empty. Its rows are marked `Data_Source = "Synthetic sample"`.

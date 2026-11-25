@@ -27,8 +27,8 @@ from ai_adoption import config as C  # noqa: E402
 def main() -> int:
     try:
         from kaggle.api.kaggle_api_extended import KaggleApi
-    except ImportError:
-        print("The `kaggle` package is not installed. Run: pip install kaggle")
+    except ImportError as exc:
+        print(f"Could not import the `kaggle` package ({exc}). Run: pip install kaggle")
         return 1
 
     api = KaggleApi()

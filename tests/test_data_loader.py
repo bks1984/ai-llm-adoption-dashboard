@@ -67,3 +67,20 @@ def test_bundled_sample_loads():
     df = clean(pd.read_csv(C.SAMPLE_FILE))
     assert len(df) == 1000
     assert set(C.ALL_COLUMNS) <= set(df.columns)
+
+
+def test_uninformative_developer_is_derived_from_repo_id(raw_df):
+    raw_df[C.COL_DEV] = "Community/Independent"
+    out = clean(raw_df)
+    assert set(out[C.COL_DEV]) == {"org", "x", "y", "z"}
+
+
+def test_real_kaggle_file_if_present():
+    real = C.RAW_DIR / "global_ai_llm_adoption_2026.csv"
+    if not real.exists():
+        pytest.skip("Kaggle CSV not downloaded")
+    df = clean(pd.read_csv(real))
+    assert len(df) == 1000
+    assert df[C.COL_DEV].nunique() > 100
+    # Source score is likes per 1K downloads rounded to 2 dp
+    assert (df[C.COL_SCORE] - df[C.COL_LIKES_PER_1K]).abs().max() <= 0.011

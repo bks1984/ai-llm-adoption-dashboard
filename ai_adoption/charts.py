@@ -89,6 +89,9 @@ def download_tier_bar(df: pd.DataFrame) -> go.Figure:
     counts = (df[C.COL_DOWNLOAD_TIER].value_counts()
               .reindex(C.DOWNLOAD_TIER_LABELS, fill_value=0).reset_index())
     counts.columns = ["tier", "models"]
+    # Drop empty tiers at either end (the real dataset starts at ~360K downloads)
+    nz = counts.index[counts["models"] > 0]
+    counts = counts.loc[nz.min():nz.max()]
     fig = go.Figure(go.Bar(
         x=counts["tier"], y=counts["models"],
         marker=dict(color=C.PRIMARY, cornerradius=4),

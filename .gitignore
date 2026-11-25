@@ -10,6 +10,7 @@ venv/
 # Data: keep the synthetic sample, ignore real downloads & outputs
 data/raw/*
 !data/raw/.gitkeep
+!data/raw/global_ai_llm_adoption_2026.csv
 data/processed/*
 !data/processed/.gitkeep
 *.zip

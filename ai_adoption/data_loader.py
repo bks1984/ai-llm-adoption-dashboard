@@ -89,6 +89,14 @@ def clean(df: pd.DataFrame) -> pd.DataFrame:
         )
     df[C.COL_TASK] = df[C.COL_TASK].str.lower()
 
+    # The published Kaggle file has Developer_Org = "Community/Independent" on
+    # every row. When the column carries no information, recover the publisher
+    # from the "org/model" repository id instead.
+    if df[C.COL_DEV].nunique() <= 1 and df[C.COL_NAME].str.contains("/", regex=False).mean() > 0.5:
+        df[C.COL_DEV] = df[C.COL_NAME].str.split("/", n=1).str[0].where(
+            df[C.COL_NAME].str.contains("/", regex=False), C.UNKNOWN
+        )
+
     if C.COL_SOURCE not in df.columns:
         df[C.COL_SOURCE] = C.UNKNOWN
 
